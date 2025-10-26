@@ -1,9 +1,137 @@
 <!DOCTYPE html>
-<html>
-  <body>
+<html lang="es">
+  <head>
+    <core datalayer>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Resonant | Official Website | TheCursedOnion</title>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Tillana&display=swap"
+        rel="stylesheet"
+      />
+      <link rel="stylesheet" href="main.css" />
+    </core>
+  </head>
+  <script>
+    function toggleAnimacion() {
+      const video = document.getElementById("videoFondo");
+      const imagen = document.getElementById("imagenFondo");
+      const checkbox = document.getElementById("toggleAnimCheckbox");
 
-      <h1>Hello World!</h1>
-      <p>asd</p>
-    
+      if (checkbox.checked) {
+        video.style.display = "none";
+        imagen.style.display = "block";
+      } else {
+        video.style.display = "block";
+        imagen.style.display = "none";
+      }
+    }
+  </script>
+
+  <body>
+    <div class="control-bar">
+      <label class="toggle-label">
+        <input
+          type="checkbox"
+          id="toggleAnimCheckbox"
+          onchange="toggleAnimacion()"
+        />
+        <span class="toggle-text">Detener animación</span>
+      </label>
+    </div>
+
+    <header>
+      <h1>Resonant</h1>
+      <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#trailer">Tráiler</a>
+        <a href="#features">Características</a>
+        <a href="#comprar">Jugar</a>
+      </nav>
+    </header>
+
+    <main id="inicio">
+      <div class="hero">
+        <video id="videoFondo" muted autoplay loop>
+          <source src="./video/fondoprueba.mp4" type="video/mp4" />
+        </video>
+        <img id="imagenFondo" src="./imagen/prueba.png" alt="Fondo estático" />
+        <div class="capa"></div>
+        <div class="hero-text">¡Explora eras antiguas!</div>
+      </div>
+    </main>
+
+    <section class="section" id="trailer">
+      <h2>Tráiler oficial</h2>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/7rFVkG_o3G8?si=NNblgC_MHLlMESHV"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+      ></iframe>
+    </section>
+
+    <section class="section" id="features">
+      <h2>Características destacadas</h2>
+      <div class="features">
+        <div>
+          <img
+            src="https://via.placeholder.com/300x200?text=Daybreak+Update"
+            alt="Escenario 1"
+          />
+          <p>Exto1</p>
+        </div>
+        <div>
+          <img
+            src="https://via.placeholder.com/300x200?text=Pokémon+Day"
+            alt="Escenario 2"
+          />
+          <p>Exto2</p>
+        </div>
+        <div>
+          <img
+            src="https://via.placeholder.com/300x200?text=Hisuian+Forms"
+            alt="Escenario 3"
+          />
+          <p>Exto3</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="comprar">
+      <h2>Prueba ya el juego</h2>
+      <p>¡La aventura por Cronogea ha comenzado en tu dispositivo!</p>
+      <a
+        class="buy-button"
+        href="https://www.youtube.com/@CursedOnionOfficial"
+        target="_blank"
+        >Más información</a
+      >
+    </section>
+
+    <footer>
+      <p>&copy; 2025 TheCursedOnion</p>
+      <div class="social">
+        <a href="https://www.instagram.com/thecursedonion_es" target="_blank"
+          >Instagram</a
+        >
+        <a href="https://www.tiktok.com/@thecursedonion_es" target="_blank"
+          >TikTok</a
+        >
+        <a href="https://www.youtube.com/@CursedOnionOfficial" target="_blank"
+          >Youtube</a
+        >
+        <a href="https://x.com/TheCursedOnion_" target="_blank">Twitter(X)</a>
+        <a
+          href="https://bsky.app/profile/thecursedonion.bsky.social"
+          target="_blank"
+          >Bluesky</a
+        >
+      </div>
+    </footer>
   </body>
 </html>
