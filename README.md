@@ -5,7 +5,7 @@
 ![LogoTheCursedOnion](imagen/prueba.png)
 
 
-v3.0.0
+v2.0.0
 
 
 
@@ -131,6 +131,16 @@ v3.0.0
    <td>Todo el equipo
    </td>
    <td>Actualización del GDD para entrega de la fase Beta
+   </td>
+  </tr>
+  <tr>
+   <td>v2.0.0
+   </td>
+   <td>9/12/2025
+   </td>
+   <td>Todo el equipo
+   </td>
+   <td>Actualización del GDD para entrega de la fase Gold
    </td>
   </tr>
 </table>
