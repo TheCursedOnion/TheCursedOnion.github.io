@@ -4,7 +4,7 @@
 
 
 
-![LogoTheCursedOnion](imagen/prueba.png)
+![LogoTheCursedOnion](imagen/Logo.png)
 
 
 v2.0.0
