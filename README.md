@@ -1,8 +1,3 @@
-
- \
-
-
-
 # **RESONANT**
 
 
@@ -17,95 +12,7 @@ v2.0.0
 
 
 
-# Índice
-
-
-## Historial de Versiones
-
-
-## Introducción
-
-
-### Descripción breve del concepto
-
-
-### Descripción breve de la historia y personajes
-
-
-### Propósito, público objetivo y plataformas
-
-
-## Estudio y Equipo de Desarrolladores
-
-
-### Herramientas de Desarrollo
-
-
-## Monetización
-
-
-### Pilares del Equipo en la Monetización
-
-
-### Tipo de modelo de monetización
-
-
-## Mecánicas de Juego y Elementos de Juego
-
-
-### Descripción detallada del concepto de juego
-
-
-#### Niveles con los que contará el juego
-
-
-### Descripción detallada de las mecánicas de juego
-
-
-#### Control de Unidades y Gameplay principal
-
-
-##### Diagrama flujo de juego
-
-
-##### Diagrama flujo de fase de combate
-
-
-#### Descripción de las Estadísticas de las Unidades
-
-
-#### Tipos de Unidades y sus Características
-
-
-#### Habilidades de las Unidades
-
-
-#### Costes de las Unidades
-
-
-### Modos de Juego y Controles
-
-
-#### Controles en UI
-
-
-#### Controles en Modo Mapa del Mundo
-
-
-#### Controles en Modo Editor de Batalla
-
-
-#### Controles en Modo Batalla
-
-
-### Niveles y Misiones
-
-
-## Narrativa y guión
-
-
-## Arte
-
+**Índice**
 
 
 [TOC]
@@ -229,6 +136,16 @@ v2.0.0
    <td>Actualización del GDD para entrega de la fase Beta
    </td>
   </tr>
+  <tr>
+   <td>v2.0.0
+   </td>
+   <td>9/12/2025
+   </td>
+   <td>Todo el equipo
+   </td>
+   <td>Actualización del GDD para entrega de la fase Gold
+   </td>
+  </tr>
 </table>
 
 
@@ -240,14 +157,14 @@ v2.0.0
 
 ## Descripción breve del concepto
 
-Proyecto “CRONOS” es un videojuego de táctica por turnos centrado en la estrategia. En él tomarás el papel de un “resonante”, una persona con la capacidad de viajar en el tiempo que deberá viajar a diferentes épocas históricas para mantener la estabilidad de la línea temporal. Para ello deberá usar tropas y unidades de ese momento histórico.
+Resonant es un videojuego de táctica por turnos centrado en la estrategia. En él tomarás el papel de un “resonante”, una persona con la capacidad de “viajar” en el tiempo que deberá viajar a diferentes épocas históricas para mantener la estabilidad de la línea temporal. Para ello deberá usar tropas y unidades de ese momento histórico.
 
 **Inspiraciones: **El proyecto toma como inspiración jugable a otros juegos de estrategia como pueden ser Fire Emblem o Final Fantasy Tactics. En cuanto a arte el juego es influenciado por títulos como Octopath Traveler o Triangle Strategy. Y en lo que se refiere a narrativa está influenciado por series como el Ministerio del tiempo o películas como Las aventuras de Peabody y Sherman.
 
 
 ## Descripción breve de la historia y personajes
 
-Richard, agente de prueba 08 de la Unidad de Integridad Temporal, ha sido seleccionado para una misión crítica: investigar una serie de desapariciones inexplicables de personas y objetos en el presente. Gracias a Cronos, una sofisticada máquina capaz de transportar a su usuario a través del tiempo, Richard tiene la responsabilidad de detectar y corregir alteraciones en la línea temporal. Su objetivo es descubrir el origen de estas anomalías y evitar que el presente sea alterado de forma irreversible.
+Resonant nos sumerge en un futuro cercano donde los viajes en el tiempo, controlados por la IA CRONOS, han provocado desapariciones misteriosas. El jugador controla a Richard, un resonante capaz de interactuar con figuras históricas y liderar tropas para restaurar la línea temporal. En su camino enfrentará a Los Alteradores, antiguos sujetos de prueba manipulados por la IA maligna CRONOS-ALPHA, y a antagonistas como Salvatore, Robespierre y Jeanne, cada uno con objetivos propios. Desde Grecia y Egipto hasta Japón Sengoku, Richard deberá tomar decisiones estratégicas y éticas que definirán el destino de la historia. El juego combina acción táctica, estrategia y narrativa histórica en una experiencia épica donde cada elección cuenta.
 
 
 ## Propósito, público objetivo y plataformas
@@ -255,9 +172,6 @@ Richard, agente de prueba 08 de la Unidad de Integridad Temporal, ha sido selecc
 El juego está dirigido principalmente a jugadores familiarizados con el género, pero mantiene un enfoque family friendly, lo que permite que también pueda ser disfrutado por audiencias más jóvenes sin perder su esencia estratégica. Además, está pensado para atraer a quienes sienten curiosidad por la historia universal, ya que incorpora elementos históricos de forma accesible y educativa.
 
 Las principales plataformas en las que se jugará el juego serán PC y móvil con soporte en Web. La principal motivación del jugador será seguir una historia divertida a la par que interesante en la que el jugador emplee elementos estratégicos para conseguir la mayor puntuación en cada nivel.
-
-
-# 
 
 
 # Estudio y Equipo de Desarrolladores
@@ -1212,3 +1126,6 @@ Con el diseño de niveles se busca enseñar al jugador las diferentes capacidade
 
 
 # 
+
+
+# **Arte**
