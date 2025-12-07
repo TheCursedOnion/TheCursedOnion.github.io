@@ -464,7 +464,7 @@ Durante el turno de una unidad aliada, el jugador podrá seleccionar las diferen
 
 #### Diagrama flujo de juego
 
-
+![DiagramaFlujoGeneral](imagen/DiagramaFlujoGeneral.png)
 
 
 #### 
@@ -474,7 +474,7 @@ Durante el turno de una unidad aliada, el jugador podrá seleccionar las diferen
 
 Para la gestión de los comandos de las unidades se implementó el patrón de diseño Command.
 
-
+![DiagramaFlujoCombate](imagen/DiagramaFlujoCombate.png)
 
 
 ### 
