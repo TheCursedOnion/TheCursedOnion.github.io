@@ -2,20 +2,17 @@
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![LogoTheCursedOnion](https://TheCursedOnion.github.io/imagen/prueba.png)
 
 
-![alt_text](images/image1.png "image_tooltip")
-
-
-v2.0.0
+v3.0.0
 
 
 
 **Índice**
 
 
-[TOC]
+
 
 
 
