@@ -12,10 +12,94 @@ v2.0.0
 
 
 
-**Índice**
+# Índice
 
 
-[TOC]
+## Historial de Versiones
+
+
+## Introducción
+
+
+### Descripción breve del concepto
+
+
+### Descripción breve de la historia y personajes
+
+
+### Propósito, público objetivo y plataformas
+
+
+## Estudio y Equipo de Desarrolladores
+
+
+### Herramientas de Desarrollo
+
+
+## Monetización
+
+
+### Pilares del Equipo en la Monetización
+
+
+### Tipo de modelo de monetización
+
+
+## Mecánicas de Juego y Elementos de Juego
+
+
+### Descripción detallada del concepto de juego
+
+
+#### Niveles con los que contará el juego
+
+
+### Descripción detallada de las mecánicas de juego
+
+
+#### Control de Unidades y Gameplay principal
+
+
+##### Diagrama flujo de juego
+
+
+##### Diagrama flujo de fase de combate
+
+
+#### Descripción de las Estadísticas de las Unidades
+
+
+#### Tipos de Unidades y sus Características
+
+
+#### Habilidades de las Unidades
+
+
+#### Costes de las Unidades
+
+
+### Modos de Juego y Controles
+
+
+#### Controles en UI
+
+
+#### Controles en Modo Mapa del Mundo
+
+
+#### Controles en Modo Editor de Batalla
+
+
+#### Controles en Modo Batalla
+
+
+### Niveles y Misiones
+
+
+## Narrativa y guión
+
+
+## Arte
 
 
 
