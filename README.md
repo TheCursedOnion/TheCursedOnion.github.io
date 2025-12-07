@@ -501,7 +501,7 @@ A continuación se tiene un ejemplo de cómo se reparten los valores estadístic
 
 
 
-* **Soldado: **Unidad básica genérica, algo mediocre pero coste más bajo:
+* **Soldado:** **Unidad** básica genérica, algo mediocre pero coste más bajo:
 
 <table>
   <tr>
