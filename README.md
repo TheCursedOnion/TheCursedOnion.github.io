@@ -1,3 +1,4 @@
+
  \
 
 
@@ -419,7 +420,7 @@ A continuación se tiene un ejemplo de cómo se reparten los valores estadístic
 
 <table>
   <tr>
-   <td colspan="4" >
+   <td colspan="3" >
 Soldado
    </td>
   </tr>
@@ -430,8 +431,6 @@ Soldado
    </td>
    <td>max
    </td>
-   <td>crecimiento/nivel
-   </td>
   </tr>
   <tr>
    <td>HP
@@ -440,17 +439,13 @@ Soldado
    </td>
    <td>20
    </td>
-   <td>0.8
-   </td>
   </tr>
   <tr>
    <td>Atq
    </td>
-   <td>13
+   <td>12
    </td>
    <td>14
-   </td>
-   <td>0,7
    </td>
   </tr>
   <tr>
@@ -460,8 +455,6 @@ Soldado
    </td>
    <td>7
    </td>
-   <td>0,4
-   </td>
   </tr>
   <tr>
    <td>Vel
@@ -470,15 +463,11 @@ Soldado
    </td>
    <td>13
    </td>
-   <td>0,6
-   </td>
   </tr>
   <tr>
    <td>Mv
    </td>
    <td>5
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -490,8 +479,6 @@ Soldado
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Total
@@ -499,8 +486,6 @@ Soldado
    <td>46
    </td>
    <td>54
-   </td>
-   <td>2,5
    </td>
   </tr>
 </table>
@@ -514,7 +499,7 @@ Estos datos están dispuestos a cambios pues se balancearán mediante simulacion
 
 <table>
   <tr>
-   <td colspan="4" >
+   <td colspan="3" >
 Tanque
    </td>
   </tr>
@@ -525,37 +510,29 @@ Tanque
    </td>
    <td>max
    </td>
-   <td>crecimiento/nivel
-   </td>
   </tr>
   <tr>
    <td>HP
    </td>
-   <td>22
+   <td>16
    </td>
-   <td>24
-   </td>
-   <td>1,2
+   <td>19
    </td>
   </tr>
   <tr>
    <td>Atq
    </td>
-   <td>9
-   </td>
    <td>11
    </td>
-   <td>0,6
+   <td>12
    </td>
   </tr>
   <tr>
    <td>Df
    </td>
-   <td>10
+   <td>8
    </td>
-   <td>12
-   </td>
-   <td>0,7
+   <td>9
    </td>
   </tr>
   <tr>
@@ -565,8 +542,6 @@ Tanque
    </td>
    <td>5
    </td>
-   <td>0,2
-   </td>
   </tr>
   <tr>
    <td>Mv
@@ -575,15 +550,11 @@ Tanque
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Coste
    </td>
    <td>600
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -595,8 +566,6 @@ Tanque
    </td>
    <td>52
    </td>
-   <td>2,7
-   </td>
   </tr>
 </table>
 
@@ -607,7 +576,7 @@ Tanque
 
 <table>
   <tr>
-   <td colspan="4" >
+   <td colspan="3" >
 Ladrón
    </td>
   </tr>
@@ -618,8 +587,6 @@ Ladrón
    </td>
    <td>max
    </td>
-   <td>crecimiento/nivel
-   </td>
   </tr>
   <tr>
    <td>HP
@@ -627,8 +594,6 @@ Ladrón
    <td>15
    </td>
    <td>18
-   </td>
-   <td>0,6
    </td>
   </tr>
   <tr>
@@ -638,8 +603,6 @@ Ladrón
    </td>
    <td>15
    </td>
-   <td>0,9
-   </td>
   </tr>
   <tr>
    <td>Df
@@ -647,8 +610,6 @@ Ladrón
    <td>4
    </td>
    <td>5
-   </td>
-   <td>0,2
    </td>
   </tr>
   <tr>
@@ -658,15 +619,11 @@ Ladrón
    </td>
    <td>19
    </td>
-   <td>1
-   </td>
   </tr>
   <tr>
    <td>Mv
    </td>
    <td>5
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -678,8 +635,6 @@ Ladrón
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Total
@@ -687,8 +642,6 @@ Ladrón
    <td>48
    </td>
    <td>57
-   </td>
-   <td>2,7
    </td>
   </tr>
 </table>
@@ -700,7 +653,7 @@ Ladrón
 
 <table>
   <tr>
-   <td colspan="4" >
+   <td colspan="3" >
 Bárbaro
    </td>
   </tr>
@@ -711,17 +664,13 @@ Bárbaro
    </td>
    <td>max
    </td>
-   <td>crecimiento/nivel
-   </td>
   </tr>
   <tr>
    <td>HP
    </td>
-   <td>21
+   <td>19
    </td>
-   <td>23
-   </td>
-   <td>1
+   <td>22
    </td>
   </tr>
   <tr>
@@ -729,19 +678,15 @@ Bárbaro
    </td>
    <td>15
    </td>
-   <td>17
-   </td>
-   <td>1.1
+   <td>16
    </td>
   </tr>
   <tr>
    <td>Df
    </td>
-   <td>5
+   <td>3
    </td>
-   <td>6
-   </td>
-   <td>0,2
+   <td>4
    </td>
   </tr>
   <tr>
@@ -751,8 +696,6 @@ Bárbaro
    </td>
    <td>7
    </td>
-   <td>0,3
-   </td>
   </tr>
   <tr>
    <td>Mv
@@ -761,15 +704,11 @@ Bárbaro
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Coste
    </td>
    <td>600
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -781,8 +720,6 @@ Bárbaro
    </td>
    <td>53
    </td>
-   <td>2.6
-   </td>
   </tr>
 </table>
 
@@ -793,7 +730,7 @@ Bárbaro
 
 <table>
   <tr>
-   <td colspan="4" >
+   <td colspan="3" >
 Explorador
    </td>
   </tr>
@@ -804,8 +741,6 @@ Explorador
    </td>
    <td>max
    </td>
-   <td>crecimiento/nivel
-   </td>
   </tr>
   <tr>
    <td>HP
@@ -813,8 +748,6 @@ Explorador
    <td>15
    </td>
    <td>17
-   </td>
-   <td>0.7
    </td>
   </tr>
   <tr>
@@ -824,8 +757,6 @@ Explorador
    </td>
    <td>14
    </td>
-   <td>0,8
-   </td>
   </tr>
   <tr>
    <td>Df
@@ -833,8 +764,6 @@ Explorador
    <td>8
    </td>
    <td>9
-   </td>
-   <td>0,5
    </td>
   </tr>
   <tr>
@@ -844,15 +773,11 @@ Explorador
    </td>
    <td>10
    </td>
-   <td>0,5
-   </td>
   </tr>
   <tr>
    <td>Mv
    </td>
    <td>6
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -864,8 +789,6 @@ Explorador
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Total
@@ -873,8 +796,6 @@ Explorador
    <td>43
    </td>
    <td>50
-   </td>
-   <td>2,5
    </td>
   </tr>
 </table>
@@ -886,7 +807,7 @@ Explorador
 
 <table>
   <tr>
-   <td colspan="4" >
+   <td colspan="3" >
 Arquero
    </td>
   </tr>
@@ -897,8 +818,6 @@ Arquero
    </td>
    <td>max
    </td>
-   <td>crecimiento/nivel
-   </td>
   </tr>
   <tr>
    <td>HP
@@ -906,8 +825,6 @@ Arquero
    <td>16
    </td>
    <td>18
-   </td>
-   <td>0,75
    </td>
   </tr>
   <tr>
@@ -917,8 +834,6 @@ Arquero
    </td>
    <td>15
    </td>
-   <td>0,5
-   </td>
   </tr>
   <tr>
    <td>Df
@@ -926,8 +841,6 @@ Arquero
    <td>5
    </td>
    <td>7
-   </td>
-   <td>0,4
    </td>
   </tr>
   <tr>
@@ -937,15 +850,11 @@ Arquero
    </td>
    <td>16
    </td>
-   <td>0,7
-   </td>
   </tr>
   <tr>
    <td>Mv
    </td>
    <td>5
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -957,8 +866,6 @@ Arquero
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Total
@@ -966,8 +873,6 @@ Arquero
    <td>46
    </td>
    <td>56
-   </td>
-   <td>2,35
    </td>
   </tr>
 </table>
@@ -979,7 +884,7 @@ Arquero
 
 <table>
   <tr>
-   <td colspan="4" >
+   <td colspan="3" >
 Curandero/médico
    </td>
   </tr>
@@ -990,27 +895,21 @@ Curandero/médico
    </td>
    <td>max
    </td>
-   <td>crecimiento/nivel
-   </td>
   </tr>
   <tr>
    <td>HP
    </td>
+   <td>13
+   </td>
    <td>15
-   </td>
-   <td>17
-   </td>
-   <td>0,6
    </td>
   </tr>
   <tr>
    <td>Atq
    </td>
-   <td>5
+   <td>8
    </td>
-   <td>7
-   </td>
-   <td>0,2
+   <td>10
    </td>
   </tr>
   <tr>
@@ -1020,17 +919,13 @@ Curandero/médico
    </td>
    <td>5
    </td>
-   <td>0,33
-   </td>
   </tr>
   <tr>
    <td>Vel
    </td>
-   <td>9
+   <td>2
    </td>
-   <td>12
-   </td>
-   <td>0,6
+   <td>8
    </td>
   </tr>
   <tr>
@@ -1040,15 +935,11 @@ Curandero/médico
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
-   <td>Coste
+   <td>450
    </td>
    <td>10
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -1060,23 +951,11 @@ Curandero/médico
    </td>
    <td>41
    </td>
-   <td>1,73
-   </td>
   </tr>
 </table>
 
 
-Además, para poder visualizar las diferentes posibles iniciativas que puede tener cada tipo de unidad se puede observar el siguiente gráfico. Esto nos permite ver que dentro de la variabilidad que se crea al randomizar el orden de turnos sigue habiendo una lógica de unidades más a menos veloces:
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-De esta forma un arquero podría ser más rápido que un ladrón pero un tanque nunca podría ser más rápido que ninguno de los dos.
+Esto nos permite ver que dentro de la variabilidad que se crea al randomizar el orden de turnos sigue habiendo una lógica de unidades más a menos veloces. De esta forma un arquero podría ser más rápido que un ladrón pero un tanque nunca podría ser más rápido que ninguno de los dos.
 
 
 ### 
@@ -1231,10 +1110,10 @@ Con el diseño de niveles se busca enseñar al jugador las diferentes capacidade
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image3.jpg "image_tooltip")
+![alt_text](images/image2.jpg "image_tooltip")
 
 
 
