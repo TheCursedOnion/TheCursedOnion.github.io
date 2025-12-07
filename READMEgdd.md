@@ -1330,10 +1330,7 @@ Aunque CRONOS-ALFA fue oficialmente desactivada tras el fallo del experimento in
   <tr>
    <td rowspan="3" >
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+![Salvatore](imagen/Salvatore01.png)
 
    </td>
    <td>Nombre: Salvatore
@@ -1350,10 +1347,7 @@ Aunque CRONOS-ALFA fue oficialmente desactivada tras el fallo del experimento in
   <tr>
    <td rowspan="3" >
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+![Robespierre](imagen/Rob01.png)
 
    </td>
    <td>Nombre: Robespierre
@@ -1370,10 +1364,7 @@ Aunque CRONOS-ALFA fue oficialmente desactivada tras el fallo del experimento in
   <tr>
    <td rowspan="3" >
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+![Jeanne](imagen/Jeanne01.png)
 
    </td>
    <td>Nombre: Jeanne
