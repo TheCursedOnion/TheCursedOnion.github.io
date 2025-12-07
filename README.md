@@ -1191,14 +1191,7 @@ A medida que el jugador progrese por el juego, las tropas irán cambiando su apa
 * Derrota a un comandante enemigo.
 * Sobrevivir una cantidad de turnos defendiendo tus tropas.
 
-Con el diseño de niveles se busca enseñar al jugador las diferentes capacidades/usos de las unidades y sus respectivas habilidades para después ponerlas a prueba en combates que sean entretenidos y sean optimizables para los jugadores que buscan conseguir la mejor puntuación posible. Además los niveles se diseñarán con diferentes niveles de altura y terrenos más difíciles de cruzar, lo que permite que el jugador pueda aprovechar su entorno de forma estratégica y optimizarlo. A continuación se tiene un ejemplo de cómo se diseñarán los niveles:
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.jpg "image_tooltip")
+Con el diseño de niveles se busca enseñar al jugador las diferentes capacidades/usos de las unidades y sus respectivas habilidades para después ponerlas a prueba en combates que sean entretenidos y sean optimizables para los jugadores que buscan conseguir la mejor puntuación posible. Además los niveles se diseñarán con diferentes niveles de altura y terrenos más difíciles de cruzar, lo que permite que el jugador pueda aprovechar su entorno de forma estratégica y optimizarlo.
 
 
 
