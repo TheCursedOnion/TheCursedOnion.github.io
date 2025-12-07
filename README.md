@@ -1158,8 +1158,8 @@ La cámara tiene dos modos:
 
 Para cambiar el modo de la cámara, el jugador dispondrá de un botón especializado con esta función o pulsando Tabulador.  Para colocar tropas, primero deberá seleccionarlas de las que tenga a su disposición en un menú en el lateral y hacer click donde las quiera colocar.  Para quitarlas si se ha equivocado, basta con seleccionar la herramienta borrador y clicar en las unidades a eliminar. Una vez que considere que todo está preparado, tendrá que pulsar el botón de “Empezar Nivel” o pulsar la tecla enter.
 
-**En Móvil: \
-**Los modos de la cámara son:
+**En Móvil:**
+Los modos de la cámara son:
 
 
 
