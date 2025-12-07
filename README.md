@@ -1198,10 +1198,12 @@ Con el diseño de niveles se busca enseñar al jugador las diferentes capacidade
 # 
 
 
-# Narrativa y guión
+# Arte
 
 
 # 
 
 
-# **Arte**
+# Narrativa y guión
+
+
