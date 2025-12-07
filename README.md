@@ -657,7 +657,7 @@ Tanque
 
 
 
-* **Ladrón: **Unidad rápida capaz de aturdir enemigos mediante su habilidad para que no puedan contraatacar.
+* **Ladrón:** Unidad rápida capaz de aturdir enemigos mediante su habilidad para que no puedan contraatacar.
 
 <table>
   <tr>
@@ -734,7 +734,7 @@ Ladrón
 
 
 
-* **Bárbaro: **Mucho daño y mucha vida pero poca defensa y velocidad, puede romper estructuras como paredes agrietadas…
+* **Bárbaro**: Mucho daño y mucha vida pero poca defensa y velocidad, puede romper estructuras como paredes agrietadas…
 
 <table>
   <tr>
@@ -811,7 +811,7 @@ Bárbaro
 
 
 
-* **Explorador: **Movimiento alto pero estadísticas genéricas.
+* **Explorador:** Movimiento alto pero estadísticas genéricas.
 
 <table>
   <tr>
@@ -888,7 +888,7 @@ Explorador
 
 
 
-* **Arquero: **Coste bajo, tiene unas estadísticas mediocres pero es capaz de atacar desde una casilla de distancia y, a menos de que el enemigo sea otro arquero, no será contraatacado. Aunque si alguien que no es arquero ataca a un arquero este no podrá defenderse.
+* **Arquero:** Coste bajo, tiene unas estadísticas mediocres pero es capaz de atacar desde una casilla de distancia y, a menos de que el enemigo sea otro arquero, no será contraatacado. Aunque si alguien que no es arquero ataca a un arquero este no podrá defenderse.
 
 <table>
   <tr>
@@ -965,7 +965,7 @@ Arquero
 
 
 
-* **Curandero: **Muy malas estadísticas y coste bajo pero puede curar a unidades aliadas y debe ser protegido si se quiere aprovechar, ya que su defensa y vida es baja. La cantidad de vida que es capaz de curar es la mitad de su vida redondeada hacia arriba.
+* **Curandero:** Muy malas estadísticas y coste bajo pero puede curar a unidades aliadas y debe ser protegido si se quiere aprovechar, ya que su defensa y vida es baja. La cantidad de vida que es capaz de curar es la mitad de su vida redondeada hacia arriba.
 
 <table>
   <tr>
@@ -1075,13 +1075,13 @@ Se calcula el valor mediante los resultados estadísticos de 640.000 simulacione
 
 
 
-* **Soldado:**			Winrate: 58,8%	Utility: 40% = 98,8	→ 100
-* **Tanque:**			Winrate: 75,3%	Utility: 40% = 115,3	→ 120
-* **Ladrón:**			Winrate: 42,2%	Utility: 70% = 112,2	→ 110
-* **Bárbaro:**			Winrate: 80,5%	Utility: 40% = 120	→ 120
-* **Explorador:**			Winrate: 61,7%	Utility: 60% = 120	→ 120
-* **Arquero:**			Winrate: 51,5%	Utility: 50% = 100	→ 100
-* **Curandero/Médico:**		Winrate: 06,2%	Utility: 80% = 86,2 	→ 90
+* **Soldado:**			Winrate: 58,8% -	Utility: 40% = 98,8	→ 100
+* **Tanque:**			Winrate: 75,3% -	Utility: 40% = 115,3	→ 120
+* **Ladrón:**			Winrate: 42,2% -	Utility: 70% = 112,2	→ 110
+* **Bárbaro:**			Winrate: 80,5% -	Utility: 40% = 120	→ 120
+* **Explorador:**			Winrate: 61,7% -	Utility: 60% = 120	→ 120
+* **Arquero:**			Winrate: 51,5% -	Utility: 50% = 100	→ 100
+* **Curandero/Médico:**		Winrate: 06,2% -	Utility: 80% = 86,2 	→ 90
 
 Usando esto como base se multiplica el resultado por 5 para que la diferencia de coste sea más intuitiva y fácil de ver visualmente y para que todo sea más intuitivo para el jugador:
 
