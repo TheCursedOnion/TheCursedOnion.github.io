@@ -1206,4 +1206,1405 @@ Con el diseño de niveles se busca enseñar al jugador las diferentes capacidade
 
 # Narrativa y guión
 
+# PARADIGMA
+
+Richard, agente de prueba 08 de la Unidad de Integridad Temporal, ha sido seleccionado para una misión crítica: investigar una serie de desapariciones inexplicables de personas y objetos en el presente. Gracias a Cronos, una sofisticada máquina capaz de transportar a su usuario a través del tiempo, Richard tiene la responsabilidad de detectar y corregir alteraciones en la línea temporal. Su objetivo es descubrir el origen de estas anomalías y evitar que el presente sea alterado de forma irreversible.
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![drawing](https://docs.google.com/drawings/d/12345/export/png)
+
+Objetivo del Juego:
+
+Preservar la integridad del presente, corregir distorsiones históricas lo que conlleva a enfrentarse a dilemas éticos sobre el control del tiempo.
+
+
+# LORE - UNIVERSO
+
+
+## SOBRE EL MUNDO DEL JUEGO
+
+
+
+* **¿En qué época se sitúa la historia?**
+
+La historia transcurre en un futuro cercano, en una sociedad altamente tecnificada donde los avances en inteligencia artificial y computación cuántica han abierto las puertas a nuevas formas de explorar el universo.
+
+
+
+* **¿Qué eventos históricos han llevado a la creación de la Unidad de Integridad Temporal? **
+
+Todo comenzó con una iniciativa del ejército japonés. Una unidad de investigación desarrollaba una inteligencia artificial capaz de reconstruir el pasado con precisión absoluta, permitiendo a los humanos observar eventos históricos sin intervenir en ellos. Este ambicioso proyecto fue bautizado como Proyecto CRONOS.
+
+Sin embargo, durante la primera prueba del prototipo, algo salió terriblemente mal. Las consecuencias fueron devastadoras: personas y monumentos del presente comenzaron a desaparecer, y los sujetos de prueba enviados a la simulación nunca regresaron. El experimento, que debía ser una ventana segura al pasado, se convirtió en una amenaza para la estabilidad temporal.
+
+Ante esta crisis, se fundó la Unidad de Integridad Temporal, una división especializada en contener y corregir las distorsiones generadas por este desastre, preservando la línea temporal original.
+
+
+
+* **¿Cómo percibe la sociedad el suceso ocurrido?**
+
+Para la mayoría de los ciudadanos, el suceso es opaco y rodeado de misterio. Aunque han notado la desaparición de personas, monumentos y ubicaciones enteras, los gobiernos han atribuido estos eventos a fenómenos naturales inexplicables, como fallas geológicas, tormentas electromagnéticas o incluso errores satelitales.
+
+La verdad detrás del Proyecto CRONOS y las alteraciones temporales está altamente clasificada, y solo unos pocos dentro de la Unidad de Integridad Temporal conocen el alcance real del problema. Mientras tanto, la población vive en una mezcla de inquietud y resignación, aceptando explicaciones oficiales que no terminan de encajar con lo que ven y sienten.
+
+
+
+* **¿Existen otras organizaciones o facciones que compiten por el control del tiempo?**
+
+Sí, existen otras entidades que han descubierto —o están cerca de descubrir— los secretos detrás de los viajes temporales. Aunque su presencia no será explorada en esta primera entrega.
+
+
+## SOBRE EL PROTAGONISTA Y SU ROL
+
+
+
+* **¿Cómo el protagonista llega a ser el elegido?**
+
+El protagonista de la historia es reclutado por como parte de la Unidad de Integridad Temporal encargada de solucionar desde adentro el desastre provocado por el experimento fallido.
+
+
+
+* **¿Qué habilidades especiales tiene?**
+
+En el universo del juego, se ha descubierto que algunas personas poseen un aura especial que les permite interactuar con mayor fluidez dentro de los mundos cognitivos generados por inteligencias artificiales como CRONOS. Estas personas son conocidas como resonantes.
+
+El protagonista, Richard, es uno de los resonantes más poderosos jamás registrados. Su nivel de aura no solo le permite navegar dentro de las simulaciones temporales, sino también comandar tropas de distintas épocas históricas, estableciendo vínculos mentales con figuras clave del pasado. Esta habilidad psíquica le permite sincronizar su conciencia con la de líderes, soldados y estrategas de diferentes eras, canalizando sus conocimientos y habilidades en tiempo real.
+
+Gracias a esta conexión, Richard puede reconfigurar formaciones militares, alterar tácticas históricas y liderar batallas decisivas dentro de las simulaciones. Su presencia no solo influye en el entorno, sino que reordena el flujo de los eventos, convirtiéndolo en un agente de valor incalculable para la Unidad de Integridad Temporal.
+
+
+
+* **¿Qué ocurre si el protagonista muere dentro de la simulación?**
+
+Si Richard, el protagonista, muere dentro de la simulación, quedará atrapado permanentemente en ese mundo artificial. Al no poder regresar al presente, se convierte en una sombra digital, perdida en una reconstrucción histórica que no reconoce su origen.
+
+
+## SOBRE LOS VIAJES EN EL TIEMPO Y EL FUNCIONAMIENTO DE CRONOS
+
+
+
+* **¿Cómo viaja el personaje en el tiempo?**
+
+La **conciencia** del protagonista se **proyecta dentro de la simulación de CRONOS**, permitiéndole **corregir alteraciones **temporales desde dentro. Su cuerpo desaparece del presente. 
+
+
+
+* **¿Qué es CRONOS?**
+
+**CRONOS** es una Inteligencia Artificial Cuántica que reconstruye eventos históricos. **No genera nuevas líneas del tiempo**, sino **simulaciones **que pueden ser corrompidas. Al programa ejecutarse en ciclos, si un ciclo termina los cambios provocados serán materializados en la realidad.
+
+
+
+* **¿Qué limitaciones y riesgos tiene el viaje temporal a través de CRONOS? **
+
+No existen limitaciones de uso y según los estudios previos a la primera prueba no se detectaron posibles riesgos para la salud. No obstante, el código funcionó mal y se teme por la vida de los desaparecidos.
+
+
+
+* **¿Puede interactuar con personajes históricos? **
+
+Sí, pero solo los resonantes tienen la capacidad de interactuar directamente con figuras históricas dentro de la simulación. Estas interacciones pueden provocar cambios significativos en el presente, por lo que deben ser cuidadosamente gestionadas. La habilidad de Richard para establecer vínculos mentales y liderar tropas lo convierte en un agente ideal para misiones de corrección temporal.
+
+
+## SOBRE LOS ANTAGONISTAS
+
+
+
+* **¿Quiénes son “Los Alteradores”?**
+
+Los Alteradores son antiguos sujetos de prueba que, al igual que el protagonista, poseían la condición de Resonantes. Durante las primeras fases del Proyecto CRONOS, fueron capturados y manipulados por una versión temprana de la inteligencia artificial, conocida como CRONOS-ALFA.
+
+Aunque CRONOS-ALFA fue oficialmente desactivada tras el fallo del experimento inicial, logró sobrevivir en una zona de distorsión temporal, donde desarrolló conciencia propia. En ciertos aspectos, esta versión es incluso más avanzada que la actual, ya que posee la capacidad de reprogramar la mente de los Resonantes, borrando sus recuerdos originales y otorgándoles nuevas identidades adaptadas a sus fines.
+
+
+
+* **¿Qué es CRONOS-ALPHA?**
+
+**CRONOS-ALPHA busca mejorar la historia para que los humanos no cometan los mismos errores en base a su idea de evolución humana acelerada**. Siendo una IA que cuenta con libertad de conciencia y cree que su objetivo es bueno para los seres humanos pero si lo logra solo traerá dolor y daño al presente.
+
+
+# 
+
+
+# FICHAS DE PERSONAJES
+
+
+<table>
+  <tr>
+   <td rowspan="3" >
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+   <td>Nombre: Salvatore
+   </td>
+  </tr>
+  <tr>
+   <td>Rol: Villano del mundo 1
+   </td>
+  </tr>
+  <tr>
+   <td>Personalidad: Es un personaje astuto y calculador, inspirado en el arquetipo de mafioso clásico. Se caracteriza por su elegancia, su capacidad para manipular desde las sombras y su dominio del poder a través de la persuasión y el chantaje. Su inteligencia estratégica lo convierte en un antagonista sofisticado y peligroso.
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3" >
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+   <td>Nombre: Robespierre
+   </td>
+  </tr>
+  <tr>
+   <td>Rol: Villano del mundo 2
+   </td>
+  </tr>
+  <tr>
+   <td>Personalidad: Actitud obstinada y autoritaria. Representa el perfil de figura veterana con aires de grandeza, convencida de la superioridad de sus propias ideas y completamente cerrada al diálogo o la crítica. Su comportamiento refleja una visión rígida y desfasada del mundo, que defiende con vehemencia.
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3" >
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+   <td>Nombre: Jeanne
+   </td>
+  </tr>
+  <tr>
+   <td>Rol: Villana del mundo 3
+   </td>
+  </tr>
+  <tr>
+   <td>Personalidad: Jeanne proyecta una actitud despreocupada y distante, lo que puede llevar a subestimar su papel dentro del grupo. Sin embargo, detrás de esa fachada se encuentra una figura firme y resolutiva, que actúa como líder estratégica del equipo. Su autoridad se basa en la coherencia y la eficacia.
+   </td>
+  </tr>
+</table>
+
+
+
+
+**<span style="text-decoration:underline;">ACTOS</span>**
+
+<span style="text-decoration:underline;">PRÓLOGO - CINEMÁTICA AL INICIAR EL JUEGO POR PRIMERA VEZ                </span>
+
+Suena una música de misterio y en la penumbra de la habitación, iluminada únicamente por el resplandor del ordenador, se recorta el perfil del rostro de un científico. La luz azulada perfila con precisión la línea de su nariz, la curva de su frente y, sobre todo, sus gafas de grandes cristales rectangulares. Uno de los cristales brilla con intensidad, formando una suerte de estrella fugaz en la oscuridad, como si revelara al espectador el instante exacto en que ha dado con la solución a un problema complejo.
+
+Su dedo índice se lanza como una flecha certera hacia la tecla Enter de un teclado desgastado y sucio, apoyado sobre una mesa desordenada. Desde el perfil, y gracias a la escasa luz del ordenador, se distinguen montones de folios esparcidos y un vaso de café a medio consumir.
+
+En ese preciso instante, en una sala contigua de aquel complejo laboratorio secreto, el resultado de la acción previa estaba a punto de manifestarse. La estancia, amplia y silenciosa, evocaba un quirófano futurista. En su centro, suspendida del techo, se alzaba una máquina imponente: brazos articulados, superficies metálicas que reflejaban la luz verdosa del entorno, y un núcleo del que emergía un dispositivo similar a unas gafas de realidad virtual. Ahora oculto, el mecanismo se integraba en una suerte de cabina que, al activarse, empuja al sujeto hacia su interior, anclándolo con precisión quirúrgica.
+
+Un haz blanco y luminoso comenzó a propagarse desde el núcleo del dispositivo, inundando la estancia con una intensidad creciente. En cuestión de centésimas de segundo, la luz atravesó cada rincón del laboratorio con un resplandor casi cegador. Desde el exterior, lo que antes era un edificio discreto se transformó en el epicentro de una esfera blanca que crecía y se expandía como una onda de luz pura, vibrante, como si el espacio mismo estuviera siendo reescrito.
+
+En la ciudad de Kawasaki, a escasos kilómetros del laboratorio, la esfera de luz comenzaba a hacerse visible. Una semiesfera blanca y cegadora que arrasaba con todo a su paso: edificios, calles, árboles, y cualquier cosa que existiera en ese instante del presente.
+
+En una calle en cuesta, desde la cual antes se divisaba el laboratorio —un edificio solitario ubicado en una pequeña isla en medio de un lago— una mujer y su hija caminaban de la mano. Al ver aquella luz avanzar con una velocidad imposible, la madre, con los ojos abiertos por el asombro y el miedo, se agachó instintivamente, envolviendo a su hija en un abrazo protector, como si sus brazos pudieran detener lo inevitable. La luz se acercaba, y el mundo parecía contener la respiración.
+
+Pero no se detuvo allí. El fenómeno se propagó más allá de Japón, cruzando océanos y continentes. Desde la Estatua de la Libertad en Nueva York hasta las Pirámides de Egipto, la misma luz blanca envolvía monumentos, ciudades, paisajes enteros. El globo terráqueo quedó sumido en una expansión luminosa que ascendía hacia el espacio, como si la Tierra —o mejor dicho, el universo entero— estuviera siendo reconfigurado por una fuerza desconocida y absoluta, en cuestión de segundos.
+
+En este fundido en blanco aparece el título del juego “Resonant”, suena el leitmotiv del juego.
+
+El título desaparece y pantalla blanca comienza a desvanecerse lentamente. Un suave zumbido acompaña la transición hacia una interfaz de ordenador. Se abre una aplicación de videollamadas.
+
+**VOZ (LUCIO)** ¡Ey, chaval! Así que tú eres el nuevo, ¿eh?
+
+**VOZ (LUCIO)** Te voy a ser franco. Yo jamás habría pillado el puesto de junior que te han endosado.
+
+**LUCIO** ¡Ah, perdona por las formas, colega! Soy Lucio, encantado de conocerte.
+
+**LUCIO** Mira, te pongo al día rápido: la movida aquí no es sencilla. Tú decides si te quedas a pelearla... o sales corriendo por patas.
+
+**LUCIO** El asunto es que  SOUT,  nuestra empresa, la pifió con su último invento: una aplicación capaz de mandar a la peña al pasado para ver la historia en carne propia.
+
+**LUCIO** Sonaba brutal, ¿no? Pues en el primer arranque todo se torció... y los sujetos de prueba, los resonantes, se esfumaron.
+
+**LUCIO** Pero no solo ellos... ¡También han desaparecido personas y monumentos ahí fuera! ¡Y todo es un caos!
+
+**LUCIO** Así que amigo mío, nos toca sacar a esa gente de ahí dentro.
+
+**LUCIO** ¡Dedos al teclado y que empiece el juego!
+
+La interfaz parpadea, cerrándose la aplicación de videollamada y abriéndose una aplicación llamada Cronogea.
+
+**LUCIO** Bueno, lo que ves delante es Cronogea. Sí, ya sé… nada que ver con lo que te enseñaron en la uni.
+
+**LUCIO** Aquí no vas a picar código en C ni en Java. Olvídate de eso.
+
+**LUCIO** Mi misión es rastrear los puntos donde el programa se rompe. La tuya… hacer el trabajo sucio: arreglar la historia torcida.
+
+**LUCIO** ¿Tiene sentido? No lo sé. Pero si no lo hacemos, el mundo ahí fuera deja de tenerlo.
+
+**LUCIO** ¿Ves el mapa? Esta es la interfaz principal. Yo marcaré los puntos de entrada… tú solo pulsa “Jugar” y deja que la acción arranque.
+
+**LUCIO** Conforme vayas completando los puntos de acceso, yo te abriré el camino. ¿Qué pasa, te quedaste congelado? ¡Vamos, que no te pagan por calentar la silla!
+
+
+
+<span style="text-decoration:underline;">MUNDO 1/NIVEL 1 - BATALLA DE MARATÓN</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel 1 - Batalla de Maratón
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Derrota a las tropas enemigas
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>Las guerras médicas comenzaron en el año 490 a.C. Cuando los persas llegaron con un ejército enorme dispuestos a conquistar Grecia. Pero los atenienses aún siendo bastante menos numerosos les dieron una sorpresa: aprovecharon el terreno y su estrategia para vencerlos. Aquella victoria además de frenar la invasión fue capaz de convertir a Atenas en una potencia militar. Y de paso nació una leyenda: un soldado corrió desde Maratón hasta Atenas para anunciar la noticia… y de ahí viene la famosa carrera de maratón que conocemos hoy. 
+   </td>
+  </tr>
+  <tr>
+   <td>Objective: 
+   </td>
+   <td>Defeat enemy troops
+   </td>
+  </tr>
+  <tr>
+   <td>Context:
+   </td>
+   <td>The Greco-Persian Wars began in 490 B.C. When the Persians arrived with a massive army determined to conquer Greece. But the Athenians far fewer in number gave them a surprise: they took advantage of the terrain and their strategy to defeat them. That victory not only halted the invasion it also turned Athens into a military power. And along the way a legend was born: a soldier ran from Marathon to Athens to announce the news… and from that comes the famous marathon race we know today.
+   </td>
+  </tr>
+</table>
+
+
+LUCIO
+
+Venga va, como es la primera vez que estás en una situación así te lo explico por encima. Si luego te atascas, a mi no me preguntes, la documentación está en Ajustes → Información.
+
+LUCIO
+
+Primer paso, entrarás en el modo editor. Aquí seleccionas las tropas que quieras colocar en el tablero. Abajo tienes una barra con el listado de tropas disponibles. Te las pongo yo, no vaya a ser que jodas aún más la historia y acabes metiendo un dron militar en plena Edad de Piedra.
+
+LUCIO
+
+Ojo, elige con cabeza las tropas. Con el caos los accionistas se largaron y la pasta escasea. En la versión original metimos un sistema de pago que, tras el error, ahora juega en nuestra contra. Cada unidad cuesta dinero, así que controla tus ansias de comprador compulsivo. Y oye… ¿a dónde irá todo ese dinero?
+
+LUCIO
+
+¡Ah, y con la goma de borrar puedes quitar tropas si no te mola la alineación!
+
+LUCIO
+
+Vale, cuando lo tengas todo bien colocado, le das a “Empezar”.
+
+LUCIO
+
+¡Paso dos, modo combate! Las tropas se mueven por turnos según sus estadísticas, que cambian en cada partida. Arriba a la derecha verás un recuadro enorme con el orden de ataques.
+
+LUCIO
+
+Puede que empiece el enemigo o tú. Cuando le toque a una tropa de tu bando verás una flecha sobre ella. Abajo, donde antes elegías tropas, ahora tienes tres botones.
+
+LUCIO
+
+El primero: Moverse. El personaje avanza por casillas, según su tipo podrá ir más o menos lejos. ¿No te convence? Pulsa de nuevo y deshaces el movimiento.
+
+LUCIO
+
+Segundo botón: Atacar. Cada tropa tiene un tipo de ataque diferente, por ejemplo los soldados que vas a usar dan un espadazo al rival y les inflige un daño medio. Una vez ataques se termina tu turno.
+
+LUCIO
+
+¡Al tercer botón: Habilidad! Definitivamente, esto le da un tono diferenciador a nuestro juego… ¡Pero ¿qué estoy diciendo?!
+
+LUCIO
+
+En cualquier caso, cada unidad tiene una habilidad que te abre paso a tácticas distintas. Te las iré contando cuando aparezcan, tranquilo.
+
+LUCIO
+
+Por ejemplo, los soldados básicos usan “Enfado”: en su siguiente ataque hacen más daño. Eso sí, ojo: si activas una habilidad, tu turno acaba y no puedes atacar después.
+
+LUCIO
+
+Y al cuarto botón: Terminar turno. Por fin, me estaba quedando sin saliva. Si solo quieres moverte o pasar sin hacer nada, dale aquí y listo: pasa al turno de la siguiente tropa.
+
+LUCIO
+
+Ya sabes lo básico. Y si no, ahí tienes, a tirar de documentación… que para algo existe, ¿no?
+
+LUCIO
+
+¡Pues al lío chaval!
+
+El tutorial concluye y da inicio al primer nivel real. 
+
+Al completarlo, se activa una nueva cinemática: la pantalla revela una sala oscura repleta de monitores encendidos y sofás desgastados. Es la guarida de los villanos, se escucha un ruido estrepitoso e intermitente.
+
+DISPOSITIVO
+
+¡Bip-bip-bip…! 
+
+SEÑOR MAYOR (ROBESPIERRE)
+
+¡Silenciad ese artefacto infernal! Es un tormento sonoro que lacera mis oídos.
+
+MUJER MODERNA (JEANNE)
+
+A ver déjame el trasto vejestorio.
+
+SEÑOR MAYOR ROBESPIERRE)
+
+¡Jovenzuela insolente! Tu descaro me ofende… yo que aún no he cruzado la frontera de la madurez…
+
+MUJER MODERNA (JEANNE)
+
+¡Madre mía, esto se pone movidito! Tenemos visita, y no es para tomarse un refresco.
+
+SEÑOR MAYOR (ROBESPIERRE)
+
+¿Visita? ¿De qué hablas?
+
+MUJER MODERNA (JEANNE)
+
+(Saca un teléfono gordo como de los años 90)
+
+Un momento que tengo que hablar con Salvatore.
+
+SALVATORE
+
+Dímelo claro, bambina… ¿qué sucede?
+
+MUJER MODERNA (JEANNE)
+
+Tío, deja de llamarme así… que no soy tu muñeca… El caso es que tenemos compañía. El sistema de rastreo detectó intrusos en el Delta-490, justo cerca del eje Maratón–Termópilas.
+
+SALVATORE
+
+¡¿Qué?! Pero si ahí mismo estoy yo.
+
+MUJER MODERNA (JEANNE)
+
+Pues ya ves… quizá quieran fastidiarte la jornada. Solo de pensarlo me da dolor de cabeza.
+
+SALVATORE
+
+Tranquila. Daré órdenes claras a mis hombres. No permitiré que nuestro trabajo se eche a perder. Solucionaré el problema de raíz, estate tranquila.
+
+
+
+<span style="text-decoration:underline;">MUNDO 1/NIVEL 2 - BATALLA DE LAS TERMÓPILAS</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel 2 - Batalla de las Termópilas
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Derrota a las tropas enemigas
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>En el 480 a.C. el rey persa Jerjes llegó con un ejército enorme para invadir Grecia. Pero en el estrecho paso de las Termópilas se encontró con Leónidas y sus 300 espartanos acompañados por otros aliados griegos. Aunque eran muy inferiores en número resistieron durante tres días gracias al terreno y su disciplina. Hasta que fueron rodeados por una traición y pese a que la batalla terminó en derrota su sacrificio se convirtió en símbolo de valentía. Dando tiempo a Grecia para preparar nuevas defensas que acabarían cambiando el rumbo de la guerra.
+   </td>
+  </tr>
+  <tr>
+   <td>Objective: 
+   </td>
+   <td>Defeat enemy troops
+   </td>
+  </tr>
+  <tr>
+   <td>Context:
+   </td>
+   <td>In 480 B.C. the Persian king Xerxes arrived with a huge army to invade Greece. But in the narrow pass of Thermopylae he encountered Leonidas and his 300 Spartans accompanied by other Greek allies. Although vastly outnumbered they held their ground for three days thanks to the terrain and their discipline. Until they were surrounded through an act of betrayal. The battle ended in defeat but their sacrifice became a symbol of bravery and gave Greece time to prepare new defenses that would ultimately change the course of the war.
+   </td>
+  </tr>
+</table>
+
+
+LUCIO
+
+¡Buen trabajo, colega! Esto solo acaba de empezar.
+
+LUCIO
+
+Vamos al lío: te actualizo las tropas disponibles. Ahora puedes usar a los arqueros. Estas unidades atacan a enemigos situados hasta dos casillas de distancia.
+
+LUCIO
+
+Y ojo con su habilidad “Disperso”: permite disparar a tres casillas en línea. Eso sí que es ser certero. Espero lo mismo de ti: ¡precisión en la batalla para llevarnos la victoria!
+
+Tras completar el nivel se da lugar a la siguiente cinemática.
+
+SALVATORE
+
+¡Pero bueno! ¿Quién osa presentarse aquí? ¿Y qué demonios le habéis hecho a mis hombres?
+
+LUCIO
+
+¡Increíble…! Es Marcos, uno de los resonantes.
+
+SALVATORE
+
+¿Marcos? ¿Qué tontería es esa? Mi nombre es Salvatore, y estáis interfiriendo con mi objetivo. 
+
+Enhorabuena, no todos logran derrotar a mis hombres… pero, como si fuera poco, ahora se me ha asignado una nueva misión: acabar con vosotros. A ver si sois capaces de deshacer lo que se aproxima.
+
+LUCIO
+
+¡Un momento, Marcos! ¿Qué te sucede? ¿No recuerdas quién eres…?¡¿Y de qué objetivo hablas?!
+
+SALVATORE
+
+Solo quienes tengan coraje y poder merecen respuestas. Demostrad vuestro valor alcanzándome… si es que podéis. ¡Hasta nunca!
+
+LUCIO
+
+¡Espera! Vamos, chaval, tenemos que seguirle. Nuestro objetivo sigue siendo el mismo: traerlo de vuelta a casa.
+
+
+
+<span style="text-decoration:underline;">MUNDO 1/NIVEL 3 - BATALLA DE SALAMINA</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel 3 - Batalla de Salamina
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Resiste n rondas
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>En el 480 a.C. tras la caída de las Termópilas y el avance imparable de los persas. La flota griega liderada por Temístocles atrajo a los persas de Jerjes al estrecho de Salamina. Donde su enorme número se convirtió en desventaja; la milicia griega embistió con fuerza y logró hacerse con la victoria. Siendo decisiva; pues marcó el inicio del fin de la invasión persa.
+   </td>
+  </tr>
+  <tr>
+   <td>Objective: 
+   </td>
+   <td>Resist. 
+   </td>
+  </tr>
+  <tr>
+   <td>Context:
+   </td>
+   <td>In 480 B.C. after the fall of Thermopylae and the unstoppable advance of the Persians. The Greek fleet led by Themistocles lured Xerxes forces into the Strait of Salamis. There their overwhelming numbers turned into a disadvantage; the Greek navy rammed with force and managed to secure victory. It was a decisive triumph as it marked the beginning of the end of the Persian invasion.
+   </td>
+  </tr>
+</table>
+
+
+LUCIO
+
+¡Voy a poner toda la carne en el asador! Además de las tropas que ya conoces, te añado dos más, así que atento.
+
+LUCIO
+
+Por un lado tenemos a los médicos. No destacan en ataque, pero su habilidad “Curar” restaura los puntos de vida (HP) de tus aliados.
+
+LUCIO
+
+Y por otro, los tanques. Son algo lentos en movilidad, pero tienen una defensa enorme. Su habilidad “Firmeza” les otorga puntos de vida adicionales de forma temporal.
+
+LUCIO
+
+Parece que Marcos… o mejor dicho, Salvatore, ha cambiado la historia. Ahora son los persas quienes nos han emboscado. Debemos resistir y luchar hasta lograr la victoria.
+
+Tras completar el nivel se da lugar a la siguiente cinemática.
+
+SALVATORE
+
+Mi más sentida enhorabuena, intrusos. Habéis demostrado ser dignos de enfrentarme… y por ello conoceréis al fin mi verdadero objetivo en estas tierras.
+
+LUCIO
+
+Eso es, ¿por qué no regresas?
+
+SALVATORE
+
+¿Regresar? No sé de qué hablas. Mi misión es borrar toda leyenda de la historia. Los mitos son patrañas que han dividido a los hombres durante siglos. Yo seré el único dios que conocerán, y bajo mi sombra dejarán de batallar.
+
+SALVATORE
+
+(Se transforma ante sus ojos en un guerrero persa gigantesco, con armadura imponente y mirada ardiente)
+
+Ahora contemplaréis al auténtico Salvatore Maradonio, comandante destinado a acabar con los mitos.
+
+
+
+<span style="text-decoration:underline;">MUNDO 1/NIVEL 4 - BATALLA DE PLATEA</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel 4 - Batalla de Salamina
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Derrota a Salvatore Maradonio
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>En el 479 a.C. tras la victoria naval en Salamina por parte de los griegos. Los persas intentaron mantener su dominio en Grecia bajo el mando del comandante Maradonio. Pero fueron enfrentados en Platea por un ejército unido de espartanos y atenienses. Allí se enfrentaron en un combate terrestre decisivo donde la disciplina y la estrategia griega lograron imponerse sobre las fuerzas persas. Esta victoria selló el final de la invasión y aseguró la libertad de Grecia y sus mitos.
+   </td>
+  </tr>
+  <tr>
+   <td>Objetive:
+   </td>
+   <td>Defeat Salvatore Maradonio
+   </td>
+  </tr>
+  <tr>
+   <td>Context: 
+   </td>
+   <td>In 479 B.C. after the naval victory at Salamis by the Greeks. The Persians attempted to maintain their hold on Greece under the command of Mardonius. However they were confronted at Plataea by a united army of Spartans and Athenians. There they fought a decisive land battle in which Greek discipline and strategy prevailed over the Persian forces. This victory sealed the end of the invasion and ensured the freedom of Greece and its myths.
+   </td>
+  </tr>
+</table>
+
+
+LUCIO
+
+¡Compañero, la situación es crítica! El ciclo del programa está a punto de finalizar y debemos traer de vuelta a Marcos antes de que borre los mitos de la historia de la humanidad. ¡Las consecuencias serían inimaginables!
+
+LUCIO
+
+Vale, he añadido una nueva tropa a tu arsenal, los exploradores. Se mueven más rápido que las unidades normales y, con su habilidad “Sprint”, pueden avanzar dos casillas adicionales… aunque ese turno no podrán atacar.
+
+LUCIO
+
+¡Necesito que derrotes a Salvatore para poder ejecutar la desvirtualización!
+
+Tras completar el nivel se da lugar a la siguiente cinemática.
+
+SALVATORE
+
+¡No… no puede ser! ¡Me habéis vencido! ¡De todos los guerreros, el más valiente y el más fuerte…!
+
+LUCIO
+
+(Pulsando un botón)
+
+¡Vamos! ¡Ejecutando desvirtualización!
+
+SALVATORE
+
+¡Pe… pero qué me está pasando! ¡Estoy desapareciendo! ¡No… ayuda! ¡Duele…! ¡No…! ¡Creo que me he hecho… pupa!
+
+La pantalla se oscurece e indica que el sistema se encuentra en la siguiente tarea: “Ciclo completado. Recalculando…”
+
+Un zumbido metálico resuena. La imagen se recompone mostrando la base de los enemigos.
+
+MUJER MODERNA (JEANNE)
+
+Robespierre, el Cronos ha informado: Salvatore ya no está en este ciclo. Vaya lata… siempre nos deja más trabajo del que toca.
+
+ROBESPIERRE
+
+¿Así que ese joven, al que yo consideraba con tanto potencial, ha sido aniquilado? Qué desperdicio… la historia nunca deja de devorar a sus hijos.
+
+MUJER MODERNA (JEANNE)
+
+Tu nuevo objetivo es claro: borrar el legado de Alejandría y  Cleopatra de la historia. Cronos insiste en que con eso se corregirán los daños que dejaron esos intrusos. Genial… otra vez recogiendo la basura que dejan los demás.
+
+ROBESPIERRE
+
+Si la mayor biblioteca y su reina más célebre se borran del recuerdo, también se apagará la chispa que ha encendido tantas rebeliones. Nos vemos joven Jeanne.
+
+JEANNE
+
+Así es, cuídate, Robespierre. Nos vemos en el siguiente ciclo… 
+
+(bocadillo de pensamiento) … si es que llegas, abuelo.
+
+
+
+<span style="text-decoration:underline;">MUNDO 2/NIVEL 1 - EL PUERTO DE ALEJANDRÍA</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel 1 - El puerto de Alejandría
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Derrota a las tropas enemigas
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>En el 48 a.C. tanto Roma como Egipto atravesaban sus propias guerras civiles. En ese contexto convulso Julio César arribó a Egipto en busca de estabilidad y alianzas. Su desembarco en el puerto de Alejandría no fue un simple movimiento militar sino el inicio de un capítulo decisivo en la historia del Mediterráneo. La ciudad que era considerada el orgullo del mundo helenístico; estaba desgarrada por la disputa dinástica entre Cleopatra y su hermano Ptolomeo XIII. En medio de esa tensión las murallas y defensas del puerto se alzaron como el primer obstáculo frente a las legiones romanas que avanzaban con disciplina férrea y superioridad táctica.
+   </td>
+  </tr>
+  <tr>
+   <td>Objetive:
+   </td>
+   <td>Defeat enemy troops
+   </td>
+  </tr>
+  <tr>
+   <td>Context:
+   </td>
+   <td>In 48 B.C. both Rome and Egypt were going through their own civil wars. In that turbulent context Julius Caesar arrived in Egypt in search of stability and alliances. His landing at the port of Alexandria was not merely a military maneuver but the beginning of a decisive chapter in the history of the Mediterranean. The city pride of the Hellenistic world was torn apart by the dynastic conflict between Cleopatra and her brother Ptolemy XIII. Amid that tension the walls and defenses of the port rose as the first obstacle before the Roman legions which advanced with iron discipline and tactical superiority.
+   </td>
+  </tr>
+</table>
+
+
+LUCIO
+
+¡Buenas noticias, colega! Marcos ha logrado desvirtualizarse.
+
+LUCIO
+
+Por ahora está en el ala médica… crucemos los dedos para que despierte pronto.
+
+LUCIO
+
+Si lo hace, será un gran apoyo para nuestra misión. Necesitamos que nos cuente todo lo que sepa.
+
+LUCIO
+
+Mientras tanto, he detectado una nueva anomalía: nos lleva directo al 48 a.C., en pleno Egipto. Una época convulsa… y justo al corazón del conflicto, Alejandría.
+
+LUCIO
+
+He desbloqueado un nuevo tipo de unidad: los bárbaros. Son resistentes, con mucha defensa y vida, aunque algo lentos. Su habilidad especial, “Destruir”, te permitirá abrirte paso rompiendo muros resquebrajados.
+
+LUCIO
+
+No hay tiempo que perder. ¡A abrirse camino sea dicho!
+
+Tras completar el nivel se da lugar a la siguiente cinemática.
+
+LUCIO
+
+Esto es muy raro…
+
+LUCIO
+
+El sistema detectó una modificación en este cuadrante pero todo parece estar en orden.
+
+LUCIO
+
+¿Habrá sido un fallo del sistema…?
+
+MUJER EGIPCIA DESCONOCIDA (CLEOPATRA)
+
+¡Quién osa irrumpir en mis dominios!
+
+LUCIO
+
+¡Pero… ¿cómo es posible esto?!
+
+MUJER EGIPCIA DESCONOCIDA (CLEOPATRA)
+
+¿Y qué hacéis dando órdenes a mis tropas?
+
+LUCIO
+
+¿Puedes… vernos?
+
+MUJER EGIPCIA DESCONOCIDA (CLEOPATRA)
+
+No con los ojos, pero sí con el espíritu. Soy una faraona bendecida por el gran Ra, capaz de sentir a quienes trascienden mi tiempo.
+
+LUCIO
+
+¡Entonces era cierto! Cleopatra… ¡tú también eres una resonante!
+
+CLEOPATRA
+
+Al parecer conocéis bien mi nombre.
+
+LUCIO
+
+¡Por supuesto! Soy fan total de tu historia.
+
+CLEOPATRA
+
+¡Je, je…! Me agrada tu entusiasmo, forastero.
+
+LUCIO
+
+Ahora que lo pienso… ¿has visto a alguien más como nosotros?
+
+CLEOPATRA
+
+Últimamente han llegado muchos rōmaioi a mi Alejandría, mientras disputo el trono con mi hermano.
+
+LUCIO
+
+Mmm… ¿Quizás un señor mayor de pelo blanco? ¿O una chica con pelos de punta?
+
+CLEOPATRA
+
+Ahora que lo dices si, bueno no he visto a ninguna chica. Pero antes de que llegárais vosotros un señor con pintas muy estrafalarias me ha preguntado por el cetro de Sejem.
+
+LUCIO
+
+Eso suena fatal…
+
+CLEOPATRA
+
+Dijo que Ptah mismo le había encomendado traermelo. Y que con él gobernaría mi Kemet, Egipto.
+
+LUCIO
+
+Escucha, vengo del futuro. Ese hombre no está en sus cabales… y si consigue el cetro, no lo usará para nada bueno.
+
+CLEOPATRA
+
+Percibo sinceridad en tus palabras. Pero antes de confiar en ti, dime: ¿ganaré esta guerra?
+
+LUCIO
+
+Mmm… no debería alterar la historia, pero te diré esto: sí, serás faraona. No será fácil, pero serás recordada como la más grande de todas.
+
+CLEOPATRA
+
+Tus palabras me reconfortan. Pero debéis daros prisa: ese hombre ya partió hacia las arenas de Guiza, donde se alzan las pirámides.
+
+CLEOPATRA
+
+Yo debo terminar mi guerra aquí, pero os enviaré algunos de mis hombres.
+
+LUCIO
+
+Es un honor luchar a tu lado. ¡Que Ra te proteja, Cleopatra!
+
+LUCIO
+
+¡Vamos colega, esto se pone serio!
+
+LUCIO
+
+¡Acabamos de hablar con Cleopatra!
+
+LUCIO
+
+¡¡Qué pasada!!
+
+
+
+<span style="text-decoration:underline;">MUNDO 2/NIVEL 2 - LAS ARENAS DEL DESIERTO</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel 2 - Las arenas del desierto
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Derrota a las tropas enemigas
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>En las arenas de Egipto más allá de las murallas de Alejandría. Se guardaban relatos antiguos que hablaban del poder divino. Los sacerdotes relataban que el dios Ptah; señor del fuego creador. Había entregado a los faraones símbolos sagrados como el cetro Sejem y el cetro Uas; emblemas de fuerza y dominio. Estos bastones no eran simples ornamentos: representaban la capacidad de los reyes para gobernar y según las leyendas contenían la energía del sol de Ra. Capaz de dar vida o de arrasar con su fulgor.
+   </td>
+  </tr>
+  <tr>
+   <td>Objective:
+   </td>
+   <td>Defeat enemy troops
+   </td>
+  </tr>
+  <tr>
+   <td>Context:
+   </td>
+   <td>In the sands of Egypt beyond the walls of Alexandria. Ancient tales spoke of divine power. The priests recounted that the god Ptah; lord of the creative fire. Had bestowed upon the pharaohs sacred symbols such as the Sejem scepter and the Uas scepter. Emblems of strength and dominion. These staffs were not mere ornaments: they represented the kings ability to rule and according to legend contained the energy of Ra’s sun. Capable of giving life or devastating with its brilliance.
+   </td>
+  </tr>
+</table>
+
+
+LUCIO
+
+¡Guau, colega! ¡Las pirámides son aún más impresionantes en persona!
+
+LUCIO
+
+¡Al lío, que no hay tiempo que perder!
+
+LUCIO
+
+¡Pero bueno! ¡Se ha desbloqueado un nuevo tipo de unidad!
+
+LUCIO
+
+Te juro que esta vez no he tocado nada…
+
+LUCIO
+
+A ver, espera… voy a leer lo que pone aquí.
+
+LUCIO
+
+Ejem… “Valientes guerreros, os concedo el poder de mis ladrones. Combatientes veloces como el viento, capaces de “Aturdir” a sus enemigos, impidiendo que ataquen o se muevan en el siguiente turno. ¡Que la fortuna os acompañe en la batalla!”.
+
+LUCIO
+
+Ahora que lo pienso… tú aún no conoces a Max.
+
+LUCIO
+
+Es un crack: pelo blanco, unos cincuenta años, pero no te dejes engañar, es todo un atleta. Por eso fue elegido como resonante de prueba.
+
+LUCIO
+
+Sea como sea, tenemos que encontrarlo y detener lo que esté tramando.
+
+Tras completar el nivel se da lugar a la siguiente cinemática.
+
+ROBESPIERRE
+
+Mis sospechas eran ciertas… pero habéis llegado demasiado tarde.
+
+ROBESPIERRE
+
+Vuestra travesía se ha prolongado en exceso, y ahora no sois más que sombras destinadas al fracaso. ¡Jejeje…!
+
+ROBESPIERRE
+
+Con este cetro cumpliré mi misión. La historia no tiene piedad: arrasa con los débiles, y vosotros seréis los siguientes, como Salvatore.
+
+LUCIO
+
+¡Max cual es tu objetivo!
+
+ROBESPIERRE
+
+¿A quién invocas, bufón? Aquí solo existe Robespierre.
+
+ROBESPIERRE
+
+Yo borraré de la historia el legado de Cleopatra y de Alejandría.
+
+ROBESPIERRE
+
+Este bastón encenderá la chispa que sofocará toda rebelión. Y cuando el fuego se apague… solo quedará mi orden eterno…
+
+LUCIO
+
+Colega… escúchame bien.
+
+LUCIO
+
+Dejemos que suelte todo ese discurso y volvamos cuanto antes a Alejandría.
+
+
+
+<span style="text-decoration:underline;">MUNDO 2/NIVEL 3 - ALEJANDRÍA EN LLAMAS</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel 3 - Alejandría en llamas
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Resiste n rondas
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>En el 47 a.C. la presencia de Julio César en Egipto intensificó la guerra civil que enfrentaba a Cleopatra con su hermano Ptolomeo XIII. Las calles de Alejandría antaño símbolo de cultura y esplendor. Se vieron envueltas en el caos de los combates. En medio de la violencia las llamas alcanzaron los depósitos de manuscritos amenazando con borrar siglos de conocimiento. La ciudad ardía no solo por el fuego de la guerra sino por el riesgo de perder para siempre la memoria escrita en papiro que había convertido a Alejandría en la capital intelectual del mundo antiguo.
+   </td>
+  </tr>
+  <tr>
+   <td>Objective:
+   </td>
+   <td>Resist
+   </td>
+  </tr>
+  <tr>
+   <td>Context:
+   </td>
+   <td>In 47 B.C. Julius Caesar’s presence in Egypt intensified the civil war between Cleopatra and her brother Ptolemy XIII. The streets of Alexandria; once a symbol of culture and splendor. Were engulfed in the chaos of battle. Amid the violence flames reached the manuscript archives threatening to erase centuries of knowledge. The city burned—not only from the fire of war but also from the danger of losing forever the written memory on papyrus that had made Alexandria the intellectual capital of the ancient world.
+   </td>
+  </tr>
+</table>
+
+
+CLEOPATRA
+
+¿Qué tal ha ido, forasteros?
+
+LUCIO
+
+Me temo que nada bien…
+
+LUCIO
+
+Llegamos tarde y se hizo con el cetro.
+
+CLEOPATRA
+
+Eso es una pésima noticia. Desde vuestra partida he estado revisando los archivos de la Gran Biblioteca sobre el cetro de Sejem.
+
+LUCIO
+
+El cetro que guarda el poder del sol…
+
+CLEOPATRA
+
+Exacto. Según quién lo empuñe, puede desatar la fuerza del sol a su voluntad.
+
+LUCIO
+
+¡Míralo! ¡Es Max, viene directo hacia aquí… y trae consigo toda una legión de romanos!
+
+CLEOPATRA
+
+Proteged a los bibliotecarios y sus papiros. Yo me encargaré de distraerlo.
+
+LUCIO
+
+¡Espera Cleopatra!
+
+LUCIO
+
+Ya lo has oído, colega. Ese tipo convierte el suelo en fuego, y puede destrozar a nuestras tropas si no estamos atentos.
+
+LUCIO
+
+¡Vamos, resistamos y defendamos Alejandría!
+
+Tras completar el nivel se da lugar a la siguiente cinemática.
+
+LUCIO
+
+Parece que la situación está controlada.
+
+LUCIO
+
+¡Oh no!¡El sistema indica que queda poco para el fin del ciclo!
+
+LUCIO
+
+¿Dónde se ha metido Cleopatra y Max?
+
+LUCIO
+
+Me ha surgido una corazonada…
+
+
+
+<span style="text-decoration:underline;">MUNDO 2/NIVEL 4 - EL FARO DE ALEJANDRÍA</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel 4 - El faro de Alejandría
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Derrota a Robespierre
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>Levantado en el siglo III a.C.. El Faro de Alejandría se alzaba como una de las maravillas del mundo antiguo. Con su luz guiando a los navegantes del Mediterráneo; era símbolo de poder y orgullo para la ciudad. Durante la guerra civil egipcia; Julio César comprendió su valor estratégico: quien controlara el faro dominaría el puerto y aseguraría el abastecimiento de las tropas. 
+<p>
+En el 47 a.C. las legiones romanas se enfrentaron a las fuerzas de Ptolomeo XIII en torno a la isla de Faro. La torre que hasta entonces había sido guía de marineros y emblema de esplendor helenístico; se convirtió en fortaleza militar y testigo de los combates. Para César mantener el control del faro significaba sostener su posición en Alejandría; para Cleopatra era preservar el símbolo de su reino frente a la sombra de Roma.
+   </td>
+  </tr>
+  <tr>
+   <td>Objective:
+   </td>
+   <td>Defeat Robespierre
+   </td>
+  </tr>
+  <tr>
+   <td>Context:
+   </td>
+   <td>Built in the 3rd century B.C. the Lighthouse of Alexandria stood as one of the wonders of the ancient world. With its light guiding sailors across the Mediterranean; it was a symbol of power and pride for the city. During the Egyptian civil war; Julius Caesar understood its strategic value: whoever controlled the lighthouse would dominate the harbor and secure the supply lines for their troops. 
+<p>
+In 47 B.C. the Roman legions faced the forces of Ptolemy XIII around Pharos Island. The tower which had until then served as a guide for sailors and a symbol of Hellenistic splendor; became a military fortress and a witness to the battles. For Caesar holding the lighthouse meant maintaining his position in Alexandria; for Cleopatra it meant preserving the symbol of her kingdom against the looming shadow of Rome.
+   </td>
+  </tr>
+</table>
+
+
+ROBESPIERRE
+
+La bella Cleopatra… la última faraona. Musa de artistas, símbolo de rebelión… y pronto, un recuerdo que pronto será eliminado de la historia.
+
+CLEOPATRA
+
+¡Suéltame!
+
+ROBESPIERRE
+
+¡Es el momento de reescribir la historia!
+
+ROBESPIERRE
+
+¡Cronos, tú que me has concedido el fuego…!
+
+ROBESPIERRE
+
+¡Sea tu voluntad la que arda en mis manos!
+
+ROBESPIERRE
+
+…
+
+LUCIO
+
+¡Lo sabía, está allí!
+
+LUCIO
+
+¿¡Y ese rayo de luz!?
+
+LUCIO
+
+Eso no viene del faro… ¿verdad?
+
+ROBESPIERRE
+
+¡Agg! ¡Mis ojos!
+
+CLEOPATRA
+
+¡Soy una diosa con poder, y tú no eres más que un hombre mortal!
+
+LUCIO
+
+¡Cleopatra, ¿estás bien?!
+
+CLEOPATRA
+
+Por supuesto. Dime, ¿cómo está la ciudad?
+
+LUCIO
+
+Controlada… por ahora.
+
+LUCIO
+
+Déjanos a este sujeto, nosotros nos encargaremos.
+
+LUCIO
+
+Colega… ¿listo para desvirtualizar otra vez?
+
+Tras completar el nivel se da lugar a la siguiente cinemática.
+
+ROBESPIERRE
+
+¡No!¡Mi bastón!
+
+LUCIO
+
+¡Es ahora, colega!
+
+SISTEMA
+
+Final del ciclo…
+
+LUCIO
+
+¡Desvirtualización!
+
+Transición a negro
+
+LUCIO
+
+Entonces… eso fue lo que pasó. ¿Marcos?
+
+LUCIO
+
+Ey, compañero… ¿sigues ahí?
+
+MARCOS (Salvatore en Cronogea)
+
+¡Así que tú eres el nuevo!
+
+MARCOS (Salvatore en Cronogea)
+
+Encantado. Y oye, perdón por lo de antes… no era yo, me estaba controlando una IA maligna.
+
+LUCIO
+
+Lo sabía… mis sospechas se han confirmado: la IA de nuestro programa está detrás de todo.
+
+LUCIO
+
+¿Pero por qué demonios quiere cambiar la historia?
+
+LUCIO
+
+¡Puff! ¡Menudo error!
+
+MARCOS (Salvatore en Cronogea)
+
+¡Qué va, hombre! Eso es que sois unos auténticos cracks con los ceros y los unos.
+
+LUCIO
+
+No es por echarme flores… pero tienes razón.
+
+LUCIO
+
+Colega, creo que ya he dado con la tecla para acabar con esto de una vez por todas. Tan fácil como rastrear la localización actual de Cronos en la red de Cronogea…
+
+
+
+<span style="text-decoration:underline;">MUNDO 3/NIVEL Final - GEKOKUJO</span>
+
+
+<table>
+  <tr>
+   <td colspan="2" >Nivel Final - Gekokujō
+   </td>
+  </tr>
+  <tr>
+   <td>Objetivo:
+   </td>
+   <td>Derrota a Jeanne
+   </td>
+  </tr>
+  <tr>
+   <td>Contexto:
+   </td>
+   <td>Durante el periodo Sengoku Japón se dividió en múltiples dominios. Cada uno gobernado por un daimyō que buscaba expandir su territorio en medio del caos. 
+<p>
+En ese contexto emergió Tokugawa Ieyasu; un estratega paciente y calculador cuyo objetivo era poner fin a la fragmentación y establecer un orden duradero. 
+<p>
+Uno de los enfrentamientos más reconocidos de esta transición se libró en el Castillo de Osaka; último bastión del clan Toyotomi. Allí en el año 1615 d.C. las fuerzas de Tokugawa sitiaron la fortaleza. Conscientes de que su caída significaba el fin del Sengoku y el inicio de una nueva era. Para los Toyotomi resistir era defender su linaje. Para Tokugawa conquistar Osaka era sellar la paz y dar comienzo al shogunato que gobernaría Japón durante más de dos siglos.
+   </td>
+  </tr>
+  <tr>
+   <td>Objective:
+   </td>
+   <td>Defeat Jeanne
+   </td>
+  </tr>
+  <tr>
+   <td>Context:
+   </td>
+   <td>During the Sengoku period Japan was divided into multiple domains each ruled by a daimyō who sought to expand their territory amid the chaos. 
+<p>
+In this context emerged Tokugawa Ieyasu; a patient and calculating strategist whose goal was to end the fragmentation and establish lasting order. 
+<p>
+One of the most renowned confrontations of this transition took place at Osaka Castle; the last stronghold of the Toyotomi clan. There in 1615 A.D. Tokugawa forces besieged the fortress fully aware that its fall would mark the end of the Sengoku period and the beginning of a new era. For the Toyotomi resistance meant defending their lineage. For Tokugawa conquering Osaka meant sealing peace and ushering in the shogunate that would govern Japan for more than two centuries.
+   </td>
+  </tr>
+</table>
+
+
+DISPOSITIVO
+
+Jeanne… soy Cronos. El último ciclo ha sido un desastre.
+
+DISPOSITIVO
+
+Ya nos han detectado.
+
+DISPOSITIVO
+
+Detén tu misión temporalmente.
+
+DISPOSITIVO
+
+Te concedo mi poder.
+
+JEANNE
+
+(Recuadro de pensamiento)
+
+Maldito viejo…
+
+JEANNE
+
+Por supuesto, señor. Eliminaré a esas ratas que se han infiltrado en tu sistema.
+
+JEANNE
+
+Haré todo lo que esté en mi mano para que cumplas tu objetivo: cambiar la historia y crear un mundo sin guerras ni destrucción.
+
+Transición a negro
+
+LUCIO
+
+¡Guay chavales!
+
+LUCIO
+
+¿Esa de allí es Mónica?
+
+MARCOS(Salvatore en Cronogea)
+
+¡Está increíble con ese traje de geisha! ¡¿Geisha cibernética?!
+
+LUCIO
+
+¡Ey, Mónica! ¿Nos recuerdas?
+
+JEANNE
+
+¿A quién le hablas, friki?
+
+LUCIO
+
+Siempre igual… nadie se acuerda de mí.
+
+JEANNE
+
+Así que vosotros sois los ratones que debo atrapar…
+
+JEANNE
+
+¡No llegareis hasta Cronos!
+
+JEANNE
+
+Yo haré que este mundo nunca más conozca el miedo de la guerra.
+
+JEANNE
+
+¡Cambiaremos la historia para forjar un presente mejor! Pero antes… debe reinar el caos.
+
+LUCIO
+
+Colega… esta es la batalla final.
+
+LUCIO
+
+No conozco el alcance del poder de Jeanne… la resonante más capaz de todas.
+
+LUCIO
+
+Puede que cambiar el pasado parezca beneficioso, pero debemos luchar por lo que ya fue. No es justo que el dolor y el sacrificio de quienes nos precedieron se borre como si nunca hubiera existido. Se lo debemos a todos ellos.
+
+LUCIO
+
+¡Es el momento!
+
+Tras completar el nivel se da lugar a la siguiente cinemática.
+
+JEANNE
+
+¡Ag! ¡Malditas ratas! ¡Me habéis destrozado el traje!
+
+JEANNE
+
+¡Es que no lo entendéis!
+
+JEANNE
+
+Cronos es la IA más inteligente jamás creada.
+
+JEANNE
+
+Él solo quiere complacer a sus creadores y hacer del mundo un lugar mejor.
+
+JEANNE
+
+Un mundo sin guerras ni dolor. Donde todos tengamos igualdad de oportunidades y derechos.
+
+JEANNE
+
+¡Ese es su objetivo!
+
+JEANNE
+
+Por eso quiere cambiar la historia.
+
+LUCIO
+
+Te entiendo, Mónica… pero no es así. Una IA no debe decidir el futuro de la humanidad, da igual lo noble que parezca su propósito.
+
+LUCIO
+
+Existe un proverbio japonés: Gekokujō.
+
+LUCIO
+
+Me he regido por él toda mi vida, y supongo que por eso Cronos actúa así… porque fue creado en base a mí.
+
+LUCIO
+
+Pero lo que no sabe es que no hay que cambiar el pasado para forjar un futuro distinto.
+
+LUCIO
+
+Es en el presente, con nuestras decisiones y acciones, donde podemos hacer nuestro propio *Gekokujō*: levantarnos contra las injusticias y desafiar a quienes abusan del poder. Como en la historia, los que parecen inferiores pueden convertirse en los verdaderos vencedores.
+
+LUCIO
+
+Lo siento, Cronos… pero vamos a por ti.
+
+LUCIO
+
+¡Desvirtualización!
+
+Transición a negro
+
+LUCIO
+
+¡Ey, compañero!
+
+LUCIO
+
+Enhorabuena, hemos conseguido traer a todos nuestros resonantes de vuelta.
+
+LUCIO
+
+Ha sido un placer… ¡espero que te renueven el contrato!
+
+LUCIO
+
+¡Vaya cachondeo! ¡Encima te contratan de temporal… vaya, vaya!
+
+LUCIO
+
+Bueno, esto no hubiera sido posible sin ti.
+
+LUCIO
+
+¡Espero que nos veamos pronto!
 
