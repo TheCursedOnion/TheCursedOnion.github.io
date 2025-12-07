@@ -2,7 +2,7 @@
 
 
 
-![LogoTheCursedOnion](https://TheCursedOnion.github.io/imagen/prueba.png)
+![LogoTheCursedOnion](imagen/prueba.png)
 
 
 v3.0.0
