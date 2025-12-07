@@ -1210,13 +1210,6 @@ Con el diseño de niveles se busca enseñar al jugador las diferentes capacidade
 
 Richard, agente de prueba 08 de la Unidad de Integridad Temporal, ha sido seleccionado para una misión crítica: investigar una serie de desapariciones inexplicables de personas y objetos en el presente. Gracias a Cronos, una sofisticada máquina capaz de transportar a su usuario a través del tiempo, Richard tiene la responsabilidad de detectar y corregir alteraciones en la línea temporal. Su objetivo es descubrir el origen de estas anomalías y evitar que el presente sea alterado de forma irreversible.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
 Objetivo del Juego:
 
 Preservar la integridad del presente, corregir distorsiones históricas lo que conlleva a enfrentarse a dilemas éticos sobre el control del tiempo.
