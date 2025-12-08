@@ -1207,6 +1207,57 @@ Para los diálogos y la interfaz, se empleará un estilo de dibujo digital 2D, q
 
 ## Apartado visual 2D
 
+El pixel art presenta líneas de color, que pueden actuar como sombras y relleno sólido, salvo en zonas muy específicas que se quieran destacar como los ojos, objetos brillantes, tela, etc. La paleta de colores es reducida pero variada, y los personajes saltan bastante a la vista en su entorno.
+
+![PersianSprite](imagen/persianSprite.png)
+![robSprite](imagen/robSprite.png)
+![jeanneSprite](imagen/jeanneSprite.png)
+![cleoSprite](imagen/cleoSprite.png)
+
+
+*Pixel art de los personajes más importantes (con su atuendo de época)*
+
+
+
+En los diálogos y la UI, se utiliza un estilo de dibujo digital animado 2D, híbrido entre estilo *anime* y *cartoon*, que muestra de forma más detallada el aspecto de los personajes, y permite una mayor expresividad y variedad de emociones a la hora de mostrar los diálogos.
+
+
+![lucioBoceto](imagen/lucioBoceto.png)
+![salvatoreBoceto](imagen/salvatoreBoceto.png)
+![robBoceto](imagen/robBoceto.png)
+![jeanneBoceto](imagen/jeanneBoceto.png)
+![cleoBoceto](imagen/cleoBoceto.png)
+
+*Bocetos concept-art de los personajes del juego (en su atuendo neutral).*
+
+![lucioEntero](imagen/lucioEntero.png)
+![salvatoreEntero](imagen/salvatoreEntero.png)
+![robEntero](imagen/robEntero.png)
+![jeanneEntera](imagen/jeanneEntera.png)
+![cleoEntera](imagen/cleoEntera.png)
+
+
+*Renders de los personajes presentes en los diálogos del juego, con su diseño final*
+
+### Texturas personajes 2D
+
+Hay dos tipos de tropas: las tropas básicas y los jefes. Ambas siguen el estilo visual establecido previamente, pero las tropas básicas presentan variaciones que dependen tanto de su subtipo (bárbaro, caballero, arquero…) como de su época de origen (Grecia, Egipto, Japón feudal…). 
+
+Esto implica una gran cantidad de animaciones, crecientes exponencialmente, para cada tipo de personaje en cada época. Por ello, para estos personajes se está utilizando un método de animación por mapas de UV, que permiten asignar texturas a animaciones pixel art, haciendo esencialmente un “reskin” de las mismas animaciones. De este modo, una única animación servirá para personajes con aspecto e indumentaria diferente.
+
+
+## Diseño de personajes, complementos y armas en el gameplay
+
+Con el propósito de establecer la identidad visual de las unidades durante las secciones jugables del videojuego, se han creado sprites en pixel art que representan a las diferentes tropas disponibles. Estos elementos bidimensionales se integran dentro de un entorno tridimensional que emplea texturas con apariencia pixelada, lo que refuerza la estética HD-2D definida para el proyecto. El resultado es una experiencia visual que combina la sensación de profundidad espacial con un estilo retro estilizado, manteniendo coherencia con el resto de la dirección artística.
+
+El diseño de los sprites se ha concebido atendiendo a su función dentro del gameplay, priorizando aspectos como la claridad de la silueta, la legibilidad en pantalla y la fluidez del movimiento. Aunque las versiones actuales se aproximan al acabado definitivo, deben considerarse como propuestas conceptuales que permiten evaluar el estilo, la escala y la integración con el entorno tridimensional antes de consolidar la versión final.
+
+
+### Unidades
+
+A continuación, se presentan los sprite sheets correspondientes a las unidades aliadas y enemigas organizadas por época histórica, junto con los sprite sheets de los jefes principales (bosses) y los efectos visuales (VFX) desarrollados para complementar la experiencia jugable.
+
+
 ## Apartado visual 3D
 
 El modelado 3D es de carácter lowpoly para el correcto funcionamiento en plataformas web. Por otro lado, el texturizado de los assets tiene una estética de pixelart para encajar con los sprites. A continuación se expone el catálogo completo de assets para los mundos del juego:
