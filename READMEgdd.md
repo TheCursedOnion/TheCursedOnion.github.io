@@ -1205,124 +1205,105 @@ Con el diseño de niveles se busca enseñar al jugador las diferentes capacidade
 
 # Narrativa y guión
 
-# PARADIGMA
+## Paradigma
 
 Has sido seleccionado para una misión crítica: investigar una serie de desapariciones inexplicables de personas y objetos en el presente. Gracias a Cronos, una sofisticada máquina capaz de transportar a su usuario a través del tiempo, tienes la responsabilidad de detectar y corregir alteraciones en la línea temporal. Tu objetivo es descubrir el origen de estas anomalías y evitar que el presente sea alterado de forma irreversible.
 
-Objetivo del Juego:
+*Objetivo del Juego:*
 
-Preservar la integridad del presente, corregir distorsiones históricas lo que conlleva a enfrentarse a dilemas éticos sobre el control del tiempo.
+*Preservar la integridad del presente, corregir distorsiones históricas lo que conlleva a enfrentarse a dilemas éticos sobre el control del tiempo.*
 
 
-# LORE - UNIVERSO
+## Lore - Universo jugable
 
 
-## SOBRE EL MUNDO DEL JUEGO
+### Sobre el mundo del juego
 
 
 
-* **¿En qué época se sitúa la historia?**
+* ¿En qué época se sitúa la historia?
 
-La historia transcurre en un futuro cercano, en una sociedad altamente tecnificada donde los avances en inteligencia artificial y computación cuántica han abierto las puertas a nuevas formas de explorar el universo.
+    La historia transcurre en un futuro cercano, en una sociedad altamente tecnificada donde los avances en inteligencia artificial y computación cuántica han abierto las puertas a nuevas formas de explorar el universo.
 
+* ¿Qué eventos históricos han llevado a la creación de CRONOS? 
 
+    Todo comenzó con una iniciativa del ejército japonés. Una unidad de investigación desarrollaba una inteligencia artificial capaz de reconstruir el pasado con precisión absoluta, permitiendo a los humanos observar eventos históricos sin intervenir en ellos. Este ambicioso proyecto fue bautizado como Proyecto CRONOS.
 
-* **¿Qué eventos históricos han llevado a la creación de la Unidad de Integridad Temporal?**
 
-Todo comenzó con una iniciativa del ejército japonés. Una unidad de investigación desarrollaba una inteligencia artificial capaz de reconstruir el pasado con precisión absoluta, permitiendo a los humanos observar eventos históricos sin intervenir en ellos. Este ambicioso proyecto fue bautizado como Proyecto CRONOS.
+    Sin embargo, durante la primera prueba del prototipo, algo salió terriblemente mal. Las consecuencias fueron devastadoras: personas y monumentos del presente comenzaron a desaparecer, y los sujetos de prueba enviados a la simulación nunca regresaron. El experimento, que debía ser una ventana segura al pasado, se convirtió en una amenaza para la estabilidad temporal.
 
-Sin embargo, durante la primera prueba del prototipo, algo salió terriblemente mal. Las consecuencias fueron devastadoras: personas y monumentos del presente comenzaron a desaparecer, y los sujetos de prueba enviados a la simulación nunca regresaron. El experimento, que debía ser una ventana segura al pasado, se convirtió en una amenaza para la estabilidad temporal.
+* ¿Cómo percibe la sociedad el suceso ocurrido?
 
-Ante esta crisis, se fundó la Unidad de Integridad Temporal, una división especializada en contener y corregir las distorsiones generadas por este desastre, preservando la línea temporal original.
+    Para la mayoría de los ciudadanos, el suceso es opaco y rodeado de misterio. Aunque han notado la desaparición de personas, monumentos y ubicaciones enteras, los gobiernos han atribuido estos eventos a fenómenos naturales inexplicables, como fallas geológicas, tormentas electromagnéticas o incluso errores satelitales.
 
 
+    La verdad detrás del Proyecto CRONOS y las alteraciones temporales está altamente clasificada, y solo unos pocos dentro de la Unidad de Integridad Temporal conocen el alcance real del problema. Mientras tanto, la población vive en una mezcla de inquietud y resignación, aceptando explicaciones oficiales que no terminan de encajar con lo que ven y sienten.
 
-* **¿Cómo percibe la sociedad el suceso ocurrido?**
+* ¿Existen otras organizaciones o facciones que compiten por el control del tiempo?
 
-Para la mayoría de los ciudadanos, el suceso es opaco y rodeado de misterio. Aunque han notado la desaparición de personas, monumentos y ubicaciones enteras, los gobiernos han atribuido estos eventos a fenómenos naturales inexplicables, como fallas geológicas, tormentas electromagnéticas o incluso errores satelitales.
+    Sí, existen otras entidades que han descubierto —o están cerca de descubrir— los secretos detrás de los viajes temporales. Aunque su presencia no será explorada en esta primera entrega.
 
-La verdad detrás del Proyecto CRONOS y las alteraciones temporales está altamente clasificada, y solo unos pocos dentro de la Unidad de Integridad Temporal conocen el alcance real del problema. Mientras tanto, la población vive en una mezcla de inquietud y resignación, aceptando explicaciones oficiales que no terminan de encajar con lo que ven y sienten.
 
 
+### Sobre el protagonista y su rol
 
-* **¿Existen otras organizaciones o facciones que compiten por el control del tiempo?**
 
-Sí, existen otras entidades que han descubierto —o están cerca de descubrir— los secretos detrás de los viajes temporales. Aunque su presencia no será explorada en esta primera entrega.
 
+* ¿Cómo el protagonista llega a ser el elegido?
 
-## SOBRE EL PROTAGONISTA Y SU ROL
+    El protagonista de la historia es reclutado por como parte de la Unidad de Integridad Temporal (Empresa de seguridad de los creadores de CRONOS) encargada de solucionar desde adentro el desastre provocado por el experimento fallido.
 
+* ¿Qué habilidades especiales tiene?
 
+    En el universo del juego, se ha descubierto que algunas personas poseen un aura especial que les permite interactuar con mayor fluidez dentro de los mundos cognitivos generados por inteligencias artificiales como CRONOS. Estas personas son conocidas como Resonantes.
 
-* **¿Cómo el protagonista llega a ser el elegido?**
 
-El protagonista de la historia es reclutado por como parte de la Unidad de Integridad Temporal encargada de solucionar desde adentro el desastre provocado por el experimento fallido.
+    El protagonista es uno de los Resonantes más poderosos jamás registrados. Su nivel de aura no solo le permite navegar dentro de las simulaciones temporales, sino también comandar tropas de distintas épocas históricas, estableciendo vínculos mentales con figuras clave del pasado. Esta habilidad psíquica le permite sincronizar su conciencia con la de líderes, soldados y estrategas de diferentes eras, canalizando sus conocimientos y habilidades en tiempo real.
 
 
 
-* **¿Qué habilidades especiales tiene?**
+### Sobre los viajes en el tiempo y el funcionamiento de CRONOS
 
-En el universo del juego, se ha descubierto que algunas personas poseen un aura especial que les permite interactuar con mayor fluidez dentro de los mundos cognitivos generados por inteligencias artificiales como CRONOS. Estas personas son conocidas como resonantes.
 
-El protagonista, Richard, es uno de los resonantes más poderosos jamás registrados. Su nivel de aura no solo le permite navegar dentro de las simulaciones temporales, sino también comandar tropas de distintas épocas históricas, estableciendo vínculos mentales con figuras clave del pasado. Esta habilidad psíquica le permite sincronizar su conciencia con la de líderes, soldados y estrategas de diferentes eras, canalizando sus conocimientos y habilidades en tiempo real.
 
-Gracias a esta conexión, Richard puede reconfigurar formaciones militares, alterar tácticas históricas y liderar batallas decisivas dentro de las simulaciones. Su presencia no solo influye en el entorno, sino que reordena el flujo de los eventos, convirtiéndolo en un agente de valor incalculable para la Unidad de Integridad Temporal.
+* ¿Cómo viaja el personaje en el tiempo?
 
+    La conciencia del protagonista se proyecta dentro de la simulación de CRONOS, permitiéndole corregir alteraciones temporales desde dentro. Su cuerpo desaparece del presente. 
 
+* ¿Qué es CRONOS?
 
-* **¿Qué ocurre si el protagonista muere dentro de la simulación?**
+    CRONOS es una Inteligencia Artificial Cuántica que reconstruye eventos históricos. No genera nuevas líneas del tiempo, sino simulaciones que pueden ser corrompidas. Al ejecutarse en ciclos, si un ciclo termina, los cambios provocados serán materializados en la realidad.
 
-Si Richard, el protagonista, muere dentro de la simulación, quedará atrapado permanentemente en ese mundo artificial. Al no poder regresar al presente, se convierte en una sombra digital, perdida en una reconstrucción histórica que no reconoce su origen.
+* ¿Qué limitaciones y riesgos tiene el viaje temporal a través de CRONOS? 
 
+    No existen limitaciones de uso y según los estudios previos a la primera prueba no se detectaron posibles riesgos para la salud. No obstante, el código funcionó mal y se teme por la vida de los desaparecidos.
 
-## SOBRE LOS VIAJES EN EL TIEMPO Y EL FUNCIONAMIENTO DE CRONOS
+* ¿Se puede interactuar con personajes históricos? 
 
+    Sí, pero solo los resonantes tienen la capacidad de interactuar directamente con figuras históricas dentro de la simulación. Estas interacciones pueden provocar cambios significativos en el presente, por lo que deben ser cuidadosamente gestionadas. La habilidad del protagonista para establecer vínculos mentales y liderar tropas lo convierte en un agente ideal para misiones de corrección temporal.
 
 
-* **¿Cómo viaja el personaje en el tiempo?**
 
-La **conciencia** del protagonista se **proyecta dentro de la simulación de CRONOS**, permitiéndole **corregir alteraciones **temporales desde dentro. Su cuerpo desaparece del presente. 
+### Sobre los Antagonistas
 
 
 
-* **¿Qué es CRONOS?**
+* ¿Quiénes son “Los Alteradores”?
 
-**CRONOS** es una Inteligencia Artificial Cuántica que reconstruye eventos históricos. **No genera nuevas líneas del tiempo**, sino **simulaciones **que pueden ser corrompidas. Al programa ejecutarse en ciclos, si un ciclo termina los cambios provocados serán materializados en la realidad.
+    Los Alteradores son antiguos sujetos de prueba que, al igual que el protagonista, poseían la condición de Resonantes. Durante las primeras fases del Proyecto CRONOS, fueron capturados y manipulados por una versión temprana de la inteligencia artificial, conocida como CRONOS-ALFA.
 
 
+    Aunque CRONOS-ALFA fue oficialmente desactivada tras el fallo del experimento inicial, logró sobrevivir en una zona de distorsión temporal, donde desarrolló conciencia propia. En ciertos aspectos, esta versión es incluso más avanzada que la actual, ya que posee la capacidad de reprogramar la mente de los Resonantes, borrando sus recuerdos originales y otorgándoles nuevas identidades adaptadas a sus fines.
 
-* **¿Qué limitaciones y riesgos tiene el viaje temporal a través de CRONOS?**
+* ¿Qué es CRONOS-ALPHA?
 
-No existen limitaciones de uso y según los estudios previos a la primera prueba no se detectaron posibles riesgos para la salud. No obstante, el código funcionó mal y se teme por la vida de los desaparecidos.
-
-
-
-* **¿Puede interactuar con personajes históricos?**
-
-Sí, pero solo los resonantes tienen la capacidad de interactuar directamente con figuras históricas dentro de la simulación. Estas interacciones pueden provocar cambios significativos en el presente, por lo que deben ser cuidadosamente gestionadas. La habilidad de Richard para establecer vínculos mentales y liderar tropas lo convierte en un agente ideal para misiones de corrección temporal.
-
-
-## SOBRE LOS ANTAGONISTAS
-
-
-
-* **¿Quiénes son “Los Alteradores”?**
-
-Los Alteradores son antiguos sujetos de prueba que, al igual que el protagonista, poseían la condición de Resonantes. Durante las primeras fases del Proyecto CRONOS, fueron capturados y manipulados por una versión temprana de la inteligencia artificial, conocida como CRONOS-ALFA.
-
-Aunque CRONOS-ALFA fue oficialmente desactivada tras el fallo del experimento inicial, logró sobrevivir en una zona de distorsión temporal, donde desarrolló conciencia propia. En ciertos aspectos, esta versión es incluso más avanzada que la actual, ya que posee la capacidad de reprogramar la mente de los Resonantes, borrando sus recuerdos originales y otorgándoles nuevas identidades adaptadas a sus fines.
-
-
-
-* **¿Qué es CRONOS-ALPHA?**
-
-**CRONOS-ALPHA busca mejorar la historia para que los humanos no cometan los mismos errores en base a su idea de evolución humana acelerada**. Siendo una IA que cuenta con libertad de conciencia y cree que su objetivo es bueno para los seres humanos pero si lo logra solo traerá dolor y daño al presente.
+    CRONOS-ALPHA busca mejorar la historia para que los humanos no cometan los mismos errores en base a su idea de evolución humana acelerada. Siendo una IA que cuenta con libertad de conciencia y cree que su objetivo es bueno para los seres humanos pero si lo logra solo traerá dolor y daño al presente.
 
 
 # 
 
 
-# FICHAS DE PERSONAJES
+## FICHAS DE PERSONAJES
 
 
 <table>
