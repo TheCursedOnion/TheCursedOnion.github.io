@@ -285,7 +285,7 @@ En cuanto a la parte artística se ha empleado diferentes herramientas atendiend
 * En lo que respecta al apartado de modelado 3D se utiliza Blender.
 
 
-# **Monetización**
+# Monetización
 
 Para escoger el modelo de monetización a implementar en nuestro videojuego, se han establecido 2 pilares:
 
@@ -414,14 +414,14 @@ A continuación se muestra nuestra el contenido que puede incluirse en Actualiza
 
 
 
-# **Mecánicas de Juego y Elementos de Juego**
+# Mecánicas de Juego y Elementos de Juego
 
 
 ## Descripción detallada del concepto de juego
 
 Se plantean múltiples niveles en los que el jugador consta de un presupuesto para colocar unidades aliadas en zonas determinadas del mapa . Estas unidades serán utilizadas en un tablero donde primará la estrategia por turnos. Donde el jugador podrá combatir y cumplir diferentes objetivos como derrotar a todos los enemigos o resistir a los ataques de las unidades enemigas un cierto tiempo.
 
-Además tras completar el nivel se le ofrecerá al jugador una puntuación en función de cómo de eficiente haya sido su gestión durante la partida. El objetivo principal es completar todos los niveles para progresar y desentrañar la historia del juego.
+El objetivo principal es completar todos los niveles para progresar y desentrañar la historia del juego.
 
 
 ### Niveles con los que contará el juego:
@@ -442,7 +442,7 @@ Además tras completar el nivel se le ofrecerá al jugador una puntuación en fu
     * Nivel 1: Tutorial Bárbaro (nivel requiere romper cosas) .
     * Nivel 2: Introducción al Ladrón (que te permite dejar aturdidas a unidades enemigas).
     * Nivel 3: Nivel previo al boss del mapa.
-    * Nivel de Boss: Zonas que se avisa que el boss hará daño el siguiente turno y hacen mucho daño (alrededor de 10) (cañones).
+    * Nivel de Boss: El jefe utiliza ataques de fuego en un área amplia..
 * Mundo Final: Japón Feudal : 1300-1700
     * Boss Final.
 
@@ -1110,7 +1110,7 @@ Se habilitan controles de UI cuando se encuentre algún tipo de interfaz activa.
 
 **En PC:**
 
-Para interactuar con los elementos UI se podrá apuntar con el ratón y clicar en estos elementos; o bien usar WASD para cambiar entre opciones y seleccionar el elemento usando Espacio.
+Para interactuar con los elementos UI se podrá apuntar con el ratón y clicar en estos elementos; o bien usar WASD para cambiar entre opciones y seleccionar el elemento pasando el selector por encima.
 
 **En Móvil:**
 
@@ -1123,12 +1123,11 @@ Se tiene una cámara que sigue a un sprite que representa al jugador el cual se 
 
 **En PC:**
 
-El sprite del jugador se mueve sobre raíles mediante las teclas WASD y una vez que se encuentre sobre un nivel, se selecciona usando Espacio o Enter o pulsando un botón de UI que aparece bajo la descripción del nivel.
+En la parte superior aparecerá el nombre del nivel y a sus lados unas flechas para poder moverse entre niveles.Una vez que la cámara llegue a estar sobre un nivel, el jugador puede acceder a él pulsando el botón bajo la descripción del nivel.
 
 **En Móvil:**
 
-El sprite del jugador se mueve sobre raíles y el jugador le indica la dirección a la que ir mediante flechas que aparecen alrededor del sprite. \
-Una vez que el sprite llegue a estar sobre un nivel, el jugador puede acceder a él pulsando el botón bajo la descripción del nivel.
+Misma funcionalidad que en PC.
 
 
 ### 
@@ -1145,31 +1144,28 @@ La cámara tiene dos modos:
 
 
 * Movimiento Libre: Se puede desplazar mediante las teclas WASD y rotar hacia la izquierda y derecha 45º usando las teclas Q y E respectivamente
-
-    Si el jugador hace click izquierdo sobre una unidad, podrá ver su interfaz de acciones y estadísticas.
-
 * Movimiento Controlado: La cámara sigue a un selector de unidades, interpolando su posición, y puede ser  rotada mediante las teclas Q y E
 
     Entonces, con las teclas WASD se podrá desplazar este selector de unidades por el mapa o usando directamente click izquierdo.
 
 
-    Para seleccionar una unidad y visualizar mediante su interfaz qué acciones puede realizar y sus estadísticas, se deberá usar click derecho o espacio.
+    Para seleccionar una unidad y visualizar mediante su interfaz qué acciones puede realizar y sus estadísticas, se deberá colocar el selector en dicha unidad.
 
 
-Para cambiar el modo de la cámara, el jugador dispondrá de un botón especializado con esta función o pulsando Tabulador.  Para colocar tropas, primero deberá seleccionarlas de las que tenga a su disposición en un menú en el lateral y hacer click donde las quiera colocar.  Para quitarlas si se ha equivocado, basta con seleccionar la herramienta borrador y clicar en las unidades a eliminar. Una vez que considere que todo está preparado, tendrá que pulsar el botón de “Empezar Nivel” o pulsar la tecla enter.
+Para cambiar el modo de la cámara, el jugador dispondrá de un botón especializado con esta función.  Para colocar tropas, primero deberá seleccionarlas de las que tenga a su disposición en un menú en la parte inferior de la pantalla y hacer click donde las quiera colocar.  Para quitarlas si se ha equivocado, basta con seleccionar la herramienta borrador y clicar en las unidades a eliminar. Una vez que considere que todo está preparado, tendrá que pulsar el botón de “Empezar Nivel”.
 
-**En Móvil:**
-Los modos de la cámara son:
+**En Móvil: \
+**Los modos de la cámara son:
 
 
 
-* Movimiento Libre<span style="text-decoration:underline;">:</span> Se puede desplazar deslizando el dedo por la pantalla y rotar mediante unos botones activos en la UI específicos cuando se detecte que se está jugando en un dispositivo móvil o tablet. Similar a PC, pulsando sobre cualquier unidad, abrirá su interfaz de estadísticas y acciones.
+* Movimiento Libre<span style="text-decoration:underline;">:</span> Se puede desplazar deslizando el dedo por la pantalla y rotar mediante unos botones activos en la UI específicos cuando se detecte que se está jugando en un dispositivo móvil o tablet.
 * Movimiento Controlado: La cámara sigue a un selector de unidades y de forma similar, se podrá rotar usando los botones especiales de rotar la cámara.
 
     El selector de unidades solo funciona haciendo toques en la pantalla y en caso de tocar sobre una unidad, automáticamente se abre su interfaz.
 
 
-El jugador seguirá teniendo a su disposición el botón especial de cambiar modo de cámara.  Para colocar tropas, similar a PC, la seleccionará primero del menú lateral y colocarlas pulsando en la posición que desee; y similar para eliminar tropas usando la herramienta borrador.  Una vez que considere que todo está preparado, tendrá que pulsar el botón de “Empezar Nivel”.
+El jugador seguirá teniendo a su disposición el botón especial de cambiar modo de cámara.  Para colocar tropas, similar a PC, la seleccionará primero del menú inferior y colocarlas pulsando en la posición que desee; y similar para eliminar tropas usando la herramienta borrador.  Una vez que considere que todo está preparado, tendrá que pulsar el botón de “Empezar Nivel”.
 
 
 ### Controles en Modo Batalla
@@ -1177,6 +1173,9 @@ El jugador seguirá teniendo a su disposición el botón especial de cambiar mod
 El modo batalla se habilita una vez el jugador haya colocado todas sus tropas tras empezar un nivel y no se encuentre ninguna UI interactiva de unidad habilitada.
 
 Los controles son similares al Modo Editor de Batalla, la única diferencia siendo que ahora al seleccionar una unidad podrás instruirla con comandos a realizar.
+
+
+## 
 
 
 ## Niveles y Misiones
@@ -1191,7 +1190,7 @@ A medida que el jugador progrese por el juego, las tropas irán cambiando su apa
 * Derrota a un comandante enemigo.
 * Sobrevivir una cantidad de turnos defendiendo tus tropas.
 
-Con el diseño de niveles se busca enseñar al jugador las diferentes capacidades/usos de las unidades y sus respectivas habilidades para después ponerlas a prueba en combates que sean entretenidos y sean optimizables para los jugadores que buscan conseguir la mejor puntuación posible. Además los niveles se diseñarán con diferentes niveles de altura y terrenos más difíciles de cruzar, lo que permite que el jugador pueda aprovechar su entorno de forma estratégica y optimizarlo.
+Con el diseño de niveles se busca enseñar al jugador las diferentes capacidades/usos de las unidades y sus respectivas habilidades para después ponerlas a prueba en combates que sean entretenidos y sean optimizables para los jugadores que buscan conseguir la mejor puntuación posible. Además los niveles se diseñarán con diferentes niveles de altura y terrenos más difíciles de cruzar, lo que permite que el jugador pueda aprovechar su entorno de forma estratégica y optimizarlo. 
 
 
 
