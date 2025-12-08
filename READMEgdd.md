@@ -2549,3 +2549,33 @@ LUCIO
 
 ¡Espero que nos veamos pronto!
 
+#
+
+# Detalles de Producción
+
+
+## Fecha de Inicio
+
+El proyecto dio comienzo el día 23 de septiembre de 2025 con la creación del GitHub del Estudio y el Proyecto de Unity.
+
+
+## Alpha 
+
+Para la fecha 19/10/2025 el juego se encuentra en una fase Alpha, que incluye un Menú de Inicio, una versión de Prueba del Mapa y una Forma de Batalla muy Simple para probar las Unidades y el Flujo del Juego.
+
+
+## Beta
+
+Para el 16 de noviembre, el proyecto tiene al menos una zona entera del juego pulida, con varios niveles con al menos 5 tipos de unidades ya funcionales; una interfaz de usuario mejorada; el modo Editor de Batalla ya terminado y forma básica de realizar ajustes en el juego como sonido o gráficos.
+
+
+## Gold
+
+El juego está casi completo a falta de pulir detalles o arreglar bugs menores.
+
+Los niveles y las unidades son variados y existe un sistema de puntuaciones final el cual se guarda en una base de datos. Con esto, los jugadores pueden ver el ranking global de puntuaciones en el juego.
+
+
+## Fecha de Lanzamiento
+
+Para principios de diciembre el juego se encuentra en la Fase de Release aunque no por esto habrá terminado su ciclo de desarrollo, pues estará sometido a revisiones y evaluaciones con el fin de planificar el lanzamiento de pago real, DLCs o nuevas actualizaciones gratuitas.
