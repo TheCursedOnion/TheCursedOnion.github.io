@@ -247,7 +247,7 @@ Resonant es un videojuego de táctica por turnos centrado en la estrategia. En �
 
 ## Descripción breve de la historia y personajes
 
-Resonant nos sumerge en un futuro cercano donde los viajes en el tiempo, controlados por la IA CRONOS, han provocado desapariciones misteriosas. El jugador controla a Richard, un resonante capaz de interactuar con figuras históricas y liderar tropas para restaurar la línea temporal. En su camino enfrentará a Los Alteradores, antiguos sujetos de prueba manipulados por la IA maligna CRONOS-ALPHA, y a antagonistas como Salvatore, Robespierre y Jeanne, cada uno con objetivos propios. Desde Grecia y Egipto hasta Japón Sengoku, Richard deberá tomar decisiones estratégicas y éticas que definirán el destino de la historia. El juego combina acción táctica, estrategia y narrativa histórica en una experiencia épica donde cada elección cuenta.
+Resonant nos sumerge en un futuro cercano donde los viajes en el tiempo, controlados por la IA CRONOS, han provocado desapariciones misteriosas. El jugador es un resonante capaz de interactuar con figuras históricas y liderar tropas para restaurar la línea temporal. En su camino enfrentará a Los Alteradores, antiguos sujetos de prueba manipulados por la IA maligna CRONOS-ALPHA, y a antagonistas como Salvatore, Robespierre y Jeanne, cada uno con objetivos propios. Desde Grecia y Egipto hasta Japón Sengoku, el jugador deberá tomar decisiones estratégicas y éticas que definirán el destino de la historia. El juego combina acción táctica, estrategia y narrativa histórica en una experiencia épica donde cada elección cuenta.
 
 
 ## Propósito, público objetivo y plataformas
