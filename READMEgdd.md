@@ -1208,7 +1208,7 @@ Con el diseño de niveles se busca enseñar al jugador las diferentes capacidade
 
 # PARADIGMA
 
-Richard, agente de prueba 08 de la Unidad de Integridad Temporal, ha sido seleccionado para una misión crítica: investigar una serie de desapariciones inexplicables de personas y objetos en el presente. Gracias a Cronos, una sofisticada máquina capaz de transportar a su usuario a través del tiempo, Richard tiene la responsabilidad de detectar y corregir alteraciones en la línea temporal. Su objetivo es descubrir el origen de estas anomalías y evitar que el presente sea alterado de forma irreversible.
+Has sido seleccionado para una misión crítica: investigar una serie de desapariciones inexplicables de personas y objetos en el presente. Gracias a Cronos, una sofisticada máquina capaz de transportar a su usuario a través del tiempo, tienes la responsabilidad de detectar y corregir alteraciones en la línea temporal. Tu objetivo es descubrir el origen de estas anomalías y evitar que el presente sea alterado de forma irreversible.
 
 Objetivo del Juego:
 
@@ -1228,7 +1228,7 @@ La historia transcurre en un futuro cercano, en una sociedad altamente tecnifica
 
 
 
-* **¿Qué eventos históricos han llevado a la creación de la Unidad de Integridad Temporal? **
+* **¿Qué eventos históricos han llevado a la creación de la Unidad de Integridad Temporal?**
 
 Todo comenzó con una iniciativa del ejército japonés. Una unidad de investigación desarrollaba una inteligencia artificial capaz de reconstruir el pasado con precisión absoluta, permitiendo a los humanos observar eventos históricos sin intervenir en ellos. Este ambicioso proyecto fue bautizado como Proyecto CRONOS.
 
@@ -1292,13 +1292,13 @@ La **conciencia** del protagonista se **proyecta dentro de la simulación de CRO
 
 
 
-* **¿Qué limitaciones y riesgos tiene el viaje temporal a través de CRONOS? **
+* **¿Qué limitaciones y riesgos tiene el viaje temporal a través de CRONOS?**
 
 No existen limitaciones de uso y según los estudios previos a la primera prueba no se detectaron posibles riesgos para la salud. No obstante, el código funcionó mal y se teme por la vida de los desaparecidos.
 
 
 
-* **¿Puede interactuar con personajes históricos? **
+* **¿Puede interactuar con personajes históricos?**
 
 Sí, pero solo los resonantes tienen la capacidad de interactuar directamente con figuras históricas dentro de la simulación. Estas interacciones pueden provocar cambios significativos en el presente, por lo que deben ser cuidadosamente gestionadas. La habilidad de Richard para establecer vínculos mentales y liderar tropas lo convierte en un agente ideal para misiones de corrección temporal.
 
