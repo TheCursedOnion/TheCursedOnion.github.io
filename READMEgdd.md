@@ -1380,30 +1380,7 @@ Aunque CRONOS-ALFA fue oficialmente desactivada tras el fallo del experimento in
   </tr>
 </table>
 
-
-
-
-**<span style="text-decoration:underline;">ACTOS</span>**
-
-<span style="text-decoration:underline;">PRÓLOGO - CINEMÁTICA AL INICIAR EL JUEGO POR PRIMERA VEZ                </span>
-
-Suena una música de misterio y en la penumbra de la habitación, iluminada únicamente por el resplandor del ordenador, se recorta el perfil del rostro de un científico. La luz azulada perfila con precisión la línea de su nariz, la curva de su frente y, sobre todo, sus gafas de grandes cristales rectangulares. Uno de los cristales brilla con intensidad, formando una suerte de estrella fugaz en la oscuridad, como si revelara al espectador el instante exacto en que ha dado con la solución a un problema complejo.
-
-Su dedo índice se lanza como una flecha certera hacia la tecla Enter de un teclado desgastado y sucio, apoyado sobre una mesa desordenada. Desde el perfil, y gracias a la escasa luz del ordenador, se distinguen montones de folios esparcidos y un vaso de café a medio consumir.
-
-En ese preciso instante, en una sala contigua de aquel complejo laboratorio secreto, el resultado de la acción previa estaba a punto de manifestarse. La estancia, amplia y silenciosa, evocaba un quirófano futurista. En su centro, suspendida del techo, se alzaba una máquina imponente: brazos articulados, superficies metálicas que reflejaban la luz verdosa del entorno, y un núcleo del que emergía un dispositivo similar a unas gafas de realidad virtual. Ahora oculto, el mecanismo se integraba en una suerte de cabina que, al activarse, empuja al sujeto hacia su interior, anclándolo con precisión quirúrgica.
-
-Un haz blanco y luminoso comenzó a propagarse desde el núcleo del dispositivo, inundando la estancia con una intensidad creciente. En cuestión de centésimas de segundo, la luz atravesó cada rincón del laboratorio con un resplandor casi cegador. Desde el exterior, lo que antes era un edificio discreto se transformó en el epicentro de una esfera blanca que crecía y se expandía como una onda de luz pura, vibrante, como si el espacio mismo estuviera siendo reescrito.
-
-En la ciudad de Kawasaki, a escasos kilómetros del laboratorio, la esfera de luz comenzaba a hacerse visible. Una semiesfera blanca y cegadora que arrasaba con todo a su paso: edificios, calles, árboles, y cualquier cosa que existiera en ese instante del presente.
-
-En una calle en cuesta, desde la cual antes se divisaba el laboratorio —un edificio solitario ubicado en una pequeña isla en medio de un lago— una mujer y su hija caminaban de la mano. Al ver aquella luz avanzar con una velocidad imposible, la madre, con los ojos abiertos por el asombro y el miedo, se agachó instintivamente, envolviendo a su hija en un abrazo protector, como si sus brazos pudieran detener lo inevitable. La luz se acercaba, y el mundo parecía contener la respiración.
-
-Pero no se detuvo allí. El fenómeno se propagó más allá de Japón, cruzando océanos y continentes. Desde la Estatua de la Libertad en Nueva York hasta las Pirámides de Egipto, la misma luz blanca envolvía monumentos, ciudades, paisajes enteros. El globo terráqueo quedó sumido en una expansión luminosa que ascendía hacia el espacio, como si la Tierra —o mejor dicho, el universo entero— estuviera siendo reconfigurado por una fuerza desconocida y absoluta, en cuestión de segundos.
-
-En este fundido en blanco aparece el título del juego “Resonant”, suena el leitmotiv del juego.
-
-El título desaparece y pantalla blanca comienza a desvanecerse lentamente. Un suave zumbido acompaña la transición hacia una interfaz de ordenador. Se abre una aplicación de videollamadas.
+# GUIÓN
 
 **VOZ (LUCIO)** ¡Ey, chaval! Así que tú eres el nuevo, ¿eh?
 
