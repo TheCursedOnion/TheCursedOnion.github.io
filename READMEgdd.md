@@ -1199,6 +1199,34 @@ Con el diseño de niveles se busca enseñar al jugador las diferentes capacidade
 
 # Arte
 
+## Estética general del juego
+
+Estilo HD-2D en el que se presentan escenarios 3D low poly y personajes 2D pixel art. 
+Los escenarios se modelarán por tiles 3D, en estilo “voxel”, mientras que los props serán modelos low-poly con texturas pixeladas de 64x64, imitando el estilo de juegos de consolas como la Game Boy Advance o la Nintendo DS.
+Para los diálogos y la interfaz, se empleará un estilo de dibujo digital 2D, que da más detalle y limpieza al producto final.
+
+## Apartado visual 2D
+
+## Apartado visual 3D
+
+El modelado 3D es de carácter lowpoly para el correcto funcionamiento en plataformas web. Por otro lado, el texturizado de los assets tiene una estética de pixelart para encajar con los sprites. A continuación se expone el catálogo completo de assets para los mundos del juego:
+
+**Assets Grecia:**
+
+![AssetsGrecia](imagen/AssetsGrecia.png)
+
+**Assets Egipto:**
+
+![AssetsEgipto](imagen/AssetsEgipto.png)
+
+**Assets Japón:**
+
+![AssetsJapon](imagen/AssetsJapon.png)
+
+#
+
+# Interfaz
+
 
 # 
 
