@@ -1431,6 +1431,18 @@ A continuación, se presentan los assets visuales correspondientes a los complem
 
 *Tabla con todas las spritesheets de pixelart*
 
+Tras combinar estos elementos de diferentes maneras, podemos generar gran cantidad de unidades diferentes, lo que nos deja con más de 15 unidades jugables y 15 enemigas diferentes.
+
+![unidad1](imagen/unidad1.png)
+![unidad2](imagen/unidad2.png)
+![unidad3](imagen/unidad3.png)
+![unidad4](imagen/unidad4.png)
+![unidad5](imagen/unidad5.png)
+![unidad6](imagen/unidad6.png)
+![unidad7](imagen/unidad7.png)
+
+
+
 ## Jefes
 
 Para los jefes del juego, a diferencia de las unidades, se han utilizado animaciones pixel-art tradicionales, que permiten mostrar una mayor expresividad y detalles precisos para estas unidades de carácter más especial.
