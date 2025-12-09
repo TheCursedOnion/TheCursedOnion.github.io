@@ -1498,39 +1498,39 @@ Los estados que se describirán en este apartado hacen referencia a algunos de l
 
 Para el menú principal se utilizará una estética de tecnología retro, mostrando las opciones, el logo e información del juego. Los diferentes estados del menú se muestran en la misma escena, y se alterna entre ellos mediante movimientos de cámara.
 
-(imagen menu1)
+![menu1](imagen/menu1.png)
 
 El menú de opciones se mostrará en una pantalla más pequeña situada en el lateral.
 
-(imagen ajsutes)
+![ajustes](imagen/ajustes.png)
 
 De forma similar, al otro lado de la pantalla habrá otra más pequeña con los créditos
 
-(creditos)
+![creditos](imagen/creditos.png)
 
 También existe una sección para ver los futuros DLCs que contendrá el juego.
 
-(dlcs)
+![dlc](imagen/dlc.png)
 
 A modo de tutorial, en el escritorio hay un papel con los controles y mecánicas principales.
 
-(controles)
+![controles](imagen/controles.png)
 
 El mapa de selección de nivel mostrará el evento histórico que tiene lugar en dicho nivel a través de su nombre. Además, hay un panel lateral con los diferentes mundos del juego y en la parte derecha, un panel con información del nivel seleccionado. El menú de ajustes se incluye a partir de este momento para poder cambiar aspectos pertinentes a la experiencia de usuario de forma sencilla.
 
-(mapa)
+![mapa](imagen/mapa.png)
 
 Tras acceder al nivel, se indican las tropas disponibles, su precio, el dinero disponible y la posibilidad de quitarlas y deshacer acciones. Las tropas básicas se representan mediante iconos para evitar confusiones con los diferentes tipos y sus aspectos. La cámara puede moverse de forma libre o  bien fijarse a la posición del cursor. Mientras se colocan las tropas, aparecerá en color únicamente la zona en que estas tropas pueden aparecer.
 
-(editor)
+![editor](imagen/editor.png)
 
 En el modo combate se reemplazan los aspectos de información y colocación por la acción de las tropas y su salud e información. Las tropas pueden moverse y o bien atacar o bien activar su habilidad. Casillas de colores mostrarán el alcance de las acciones mientras estas estén activas. 
 
-(batalla)
+![batalla](imagen/batalla.png)
 
 Para el diálogo se utiliza una caja de texto con un apéndice que da el nombre del personaje que está hablando, y muestra el sprite en arte digital del personaje que habla.
 
-(Dialogos)
+![dialogo](imagen/dialogo.png)
 
 #
 
