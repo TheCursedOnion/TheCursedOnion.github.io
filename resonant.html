@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+   <!-- ===========================
+        METADATOS & ESTILOS
+   ============================ -->
+   <meta charset="UTF-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <title>Resonant | Official Website | TheCursedOnion</title>
+
+
+  
+
+
+   <!-- CSS principal -->
+   <link rel="stylesheet" href="main.css" />
+ </head>
+
+
+ <!-- ===========================
+      SCRIPT: TOGGLE ANIMACIÓN
+ ============================ -->
+ <script>
+   function toggleAnimacion() {
+  const video = document.getElementById("videoFondo");
+  const imagen = document.getElementById("imagenFondo");
+  const checkbox = document.getElementById("toggleAnimCheckbox");
+
+  const carousel = document.querySelector(".carousel");
+  const prevBtn = document.querySelector(".gallery-prev");
+  const nextBtn = document.querySelector(".gallery-next");
+
+  if (checkbox.checked) {
+
+    /* 🔹 Detener video */
+    video.pause();                // ⬅ DETIENE el video sin eliminarlo
+  imagen.style.display = "block";
+
+    /* 🔹 Detener carrusel */
+    carousel.classList.add("paused");
+
+    /* 🔹 Desactivar hover de personajes */
+    document.body.classList.add("no-hover");
+
+  } else {
+
+    /* 🔹 Reanudar video */
+    video.play();                 // ⬅ Continúa donde se quedó
+  imagen.style.display = "none";
+
+    /* 🔹 Reanudar carrusel */
+    carousel.classList.remove("paused");
+
+    /* 🔹 Activar hover de personajes */
+    document.body.classList.remove("no-hover");
+  }
+}
+
+
+ </script>
+
+
+ <body>
+   <script>
+ document.addEventListener('DOMContentLoaded', () => {
+   const track = document.querySelector('.gallery-track');
+   const imgs = document.querySelectorAll('.gallery-track img');
+   const prevBtn = document.querySelector('.gallery-prev');
+   const nextBtn = document.querySelector('.gallery-next');
+
+
+   if (!track || !prevBtn || !nextBtn || imgs.length === 0) {
+     console.warn('Galería no inicializada: revisa selectores y HTML.');
+     return;
+   }
+
+
+   let index = 0;
+
+
+   function showImage(step) {
+     index = (index + step + imgs.length) % imgs.length;
+     track.style.transform = `translateX(${-index * 100}%)`;
+   }
+
+
+   prevBtn.addEventListener('click', () => showImage(-1));
+   nextBtn.addEventListener('click', () => showImage(1));
+
+
+   // Inicializa en la primera imagen
+   showImage(0);
+ });
+</script>
+
+
+   <!-- ===========================
+        BARRA DE CONTROL
+   ============================ -->
+   <div class="control-bar">
+     <label class="toggle-label">
+       <input
+         type="checkbox"
+         id="toggleAnimCheckbox"
+         onchange="toggleAnimacion()"
+       />
+       <span class="toggle-text">Detener animación</span>
+     </label>
+   </div>
+
+
+   <!-- ===========================
+        HEADER & NAV
+   ============================ -->
+   <header>
+     <div class="logo-container">
+       <img src="./imagen/LogoResonant.svg" alt="Logo Resonant" class="logo">
+     <nav>
+       <a href="#inicio">Inicio</a>
+       <a href="#trailer">Tráiler</a>
+       <a href="#features">Características</a>
+       <a href="#comprar">Jugar</a>
+       <a href="#dlc">DLC</a>
+       <a href="#extra">Más</a>
+     </nav>
+   </header>
+
+
+   <!-- ===========================
+        HERO SECTION
+   ============================ -->
+   <main id="inicio">
+     <div class="hero">
+       <video id="videoFondo" muted autoplay loop playsinline>
+         <source src="./video/fondoprueba.mp4" type="video/mp4" />
+       </video>
+       <img id="imagenFondo" src="./imagen/prueba.png" alt="Fondo estático" />
+       <div class="capa"></div>
+       <div class="hero-text">¡Explora eras antiguas!</div>
+     </div>
+   </main>
+
+
+   <!-- ===========================
+        TRÁILER
+   ============================ -->
+   <section class="section" id="trailer">
+     <h2>Tráiler oficial</h2>
+     <iframe
+       src="https://www.youtube.com/embed/7rFVkG_o3G8?si=NNblgC_MHLlMESHV"
+       title="YouTube video player"
+       frameborder="0"
+       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+       referrerpolicy="strict-origin-when-cross-origin"
+       allowfullscreen
+     ></iframe>
+   </section>
+
+
+   <!-- ===========================
+        FEATURES
+   ============================ -->
+   <section class="section" id="features">
+     <h2>Características</h2>
+     <!-- Parte 1: Video + Texto -->
+     <div class="feature-block">
+       <video class="feature-video" autoplay muted loop playsinline>
+         <source src="./video/fondo1.mp4" type="video/mp4" />
+         Tu navegador no soporta video HTML5.
+       </video>
+       <div class="feature-overlay">
+         <h2 class="feature-title">Tu misión en Resonant</h2>
+         <p class="feature2-text">
+           Han comenzado a desaparecer personas y monumentos. Adéntrate en el
+           mundo de Cronogea, un espacio digital donde el tiempo y la memoria
+           se entrelazan. Tu misión será conocer qué fuerzas están detrás de
+           estas misteriosas desapariciones y traer de vuelta a los resonantes.
+         </p>
+       </div>
+     </div>
+
+
+     <!-- Parte 2: Carrusel -->
+     <div class="carousel">
+       <div class="group">
+           <div class="card"><img src="./imagen/carrusel/nivelcap1.png" alt="Imagen 1" /></div>
+           <div class="card"><img src="./imagen/carrusel/nivelcap2.png" alt="Imagen 2" /></div>
+           <div class="card"><img src="./imagen/carrusel/nivelcap3.png" alt="Imagen 3" /></div>
+           <div class="card"><img src="./imagen/carrusel/nivelcap4.png" alt="Imagen 4" /></div>
+           <div class="card"><img src="./imagen/carrusel/nivelcap5.png" alt="Imagen 5" /></div>
+       </div>
+       <div aria-hidden class="group">
+           <div class="card"><img src="./imagen/carrusel/nivelcap1.png" alt="Imagen 1" /></div>
+           <div class="card"><img src="./imagen/carrusel/nivelcap2.png" alt="Imagen 2" /></div>
+           <div class="card"><img src="./imagen/carrusel/nivelcap3.png" alt="Imagen 3" /></div>
+           <div class="card"><img src="./imagen/carrusel/nivelcap4.png" alt="Imagen 4" /></div>
+           <div class="card"><img src="./imagen/carrusel/nivelcap5.png" alt="Imagen 5" /></div>
+       </div>
+     </div>
+     <p class="feature2-text">
+           La actual Cronogea se compone 9 niveles difrentes en 3 mundos distintos, ¡descubrelos todos!
+         </p>
+
+
+     <!-- Parte 3: Características destacadas -->
+     <h2>Personajes</h2>
+   <div class="personajes">
+     <img src="./imagen/promo5.png">
+     <img src="./imagen/promo1.png">
+     <img src="./imagen/promo2.png">
+     <img src="./imagen/promo3.png">
+     <img src="./imagen/promo4.png">
+   </div>
+   <p class="feature2-text">
+           En Resonant no estarás solo en tu viaje por Cronogea. A lo largo de los distintos mundos descubrirás un elenco de personajes únicos, cada uno con su propia historia, motivaciones y secretos.
+         </p>
+</section>
+
+<!-- ===========================
+    CAPTURAS DEL JUEGO
+=========================== -->
+
+
+
+
+<section class="section" id="capturas">
+ <h2>Capturas del juego</h2>
+ <div class="gallery">
+   <div class="gallery-track">
+     <img src="./imagen/capturas/cap1.png" alt="Captura 1">
+     <img src="./imagen/capturas/cap2.png" alt="Captura 2">
+     <img src="./imagen/capturas/cap3.png" alt="Captura 3">
+     <img src="./imagen/capturas/cap4.png" alt="Captura 4">
+     <img src="./imagen/capturas/cap5.png" alt="Captura 5">
+     <img src="./imagen/capturas/cap6.png" alt="Captura 6">
+   </div>
+   <!-- Botones de navegación -->
+   <button class="gallery-prev">&#10094;</button>
+   <button class="gallery-next">&#10095;</button>
+ </div>
+</section>
+
+
+
+
+   <!-- ===========================
+        COMPRAR
+   ============================ -->
+   <section class="section" id="comprar">
+     <h2>Prueba ya el juego</h2>
+     <p>¡La aventura por Cronogea ha comenzado en tu dispositivo!</p>
+     <a
+       class="buy-button"
+       href="https://thecursedonion.itch.io/cronos"
+       target="_blank"
+       >Jugar Gratis</a
+     >
+   </section>
+
+
+   <!-- ===========================
+    DLC
+=========================== -->
+<section class="section" id="dlc">
+ <h2>Contenido adicional (DLC)</h2>
+ <p class="feature2-text">
+   ¡Esto es solo el comienzo! Más DLC están en camino para expandir tu aventura en Cronogea.
+   Prepárate para descubrir nuevos mundos, personajes y desafíos que llegarán próximamente.
+ </p>
+ <div class="dlc-image">
+   <img src="./imagen/DLCs.png" alt="Imagen DLC en camino">
+ </div>
+
+</section>
+
+
+   <!-- ===========================
+        EXTRA LINKS
+   ============================ -->
+   <section class="section" id="extra">
+     <h2>Conócenos</h2>
+     <div class="extra-links">
+       <a href="thecursedonion.html" class="extra-button"
+         >TheCursedOnion Team</a
+       >
+     </div>
+   </section>
+
+   <!-- ===========================
+        FOOTER
+   ============================ -->
+   <footer>
+     <p>&copy; 2025 TheCursedOnion</p>
+     <div class="social">
+       <a href="https://www.instagram.com/thecursedonion_es" target="_blank"
+         >Instagram</a
+       >
+       <a href="https://www.tiktok.com/@thecursedonion_es" target="_blank"
+         >TikTok</a
+       >
+       <a href="https://www.youtube.com/@CursedOnionOfficial" target="_blank"
+         >Youtube</a
+       >
+       <a href="https://x.com/TheCursedOnion_" target="_blank">Twitter(X)</a>
+       <a
+         href="https://bsky.app/profile/thecursedonion.bsky.social"
+         target="_blank"
+         >Bluesky</a
+       >
+     </div>
+   </footer>
+ </body>
+</html>
