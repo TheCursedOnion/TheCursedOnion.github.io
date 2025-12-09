@@ -1475,11 +1475,64 @@ El modelado 3D es de carácter lowpoly para el correcto funcionamiento en plataf
 
 #
 
+## Musica
+
+En cuanto a el soundtrack del juego se han creado canciones con diferentes rangos sonoros que complementan la situación tanto en narrativa como en jugabilidad.
+
+Se crearon canciones que ayuden al jugador a adentrarse en el juego, por ejemplo se hicieron las siguientes canciones:
+
+
+* Una canción para el menú principal desafiante y aventurera que haga al jugador querer jugar al juego.
+* Música de exploración para el mapa principal de selección de niveles
+* Canción para los diálogos y otras para los niveles con una parte más intensa para las secciones de combate y estratégia. De esta forma cada mundo tiene su propia identidad sonora que además se adecuará a la situación de gameplay que tiene en ese momento el juego.
+
+## Ambiente Sonoro
+
+En lo que respecta al estilo sonoro se ha buscado crear una ambientación con música climática para crear un ambiente de batalla. Además de sound effects que hagan el uso de menús cómodo e intuitivo.
+
 # Interfaz
 
+## Diseños básicos de los menús
 
-# 
+Los estados que se describirán en este apartado hacen referencia a algunos de los nodos visibles en el diagrama de flujo del juego.
 
+Para el menú principal se utilizará una estética de tecnología retro, mostrando las opciones, el logo e información del juego. Los diferentes estados del menú se muestran en la misma escena, y se alterna entre ellos mediante movimientos de cámara.
+
+(imagen menu1)
+
+El menú de opciones se mostrará en una pantalla más pequeña situada en el lateral.
+
+(imagen ajsutes)
+
+De forma similar, al otro lado de la pantalla habrá otra más pequeña con los créditos
+
+(creditos)
+
+También existe una sección para ver los futuros DLCs que contendrá el juego.
+
+(dlcs)
+
+A modo de tutorial, en el escritorio hay un papel con los controles y mecánicas principales.
+
+(controles)
+
+El mapa de selección de nivel mostrará el evento histórico que tiene lugar en dicho nivel a través de su nombre. Además, hay un panel lateral con los diferentes mundos del juego y en la parte derecha, un panel con información del nivel seleccionado. El menú de ajustes se incluye a partir de este momento para poder cambiar aspectos pertinentes a la experiencia de usuario de forma sencilla.
+
+(mapa)
+
+Tras acceder al nivel, se indican las tropas disponibles, su precio, el dinero disponible y la posibilidad de quitarlas y deshacer acciones. Las tropas básicas se representan mediante iconos para evitar confusiones con los diferentes tipos y sus aspectos. La cámara puede moverse de forma libre o  bien fijarse a la posición del cursor. Mientras se colocan las tropas, aparecerá en color únicamente la zona en que estas tropas pueden aparecer.
+
+(editor)
+
+En el modo combate se reemplazan los aspectos de información y colocación por la acción de las tropas y su salud e información. Las tropas pueden moverse y o bien atacar o bien activar su habilidad. Casillas de colores mostrarán el alcance de las acciones mientras estas estén activas. 
+
+(batalla)
+
+Para el diálogo se utiliza una caja de texto con un apéndice que da el nombre del personaje que está hablando, y muestra el sprite en arte digital del personaje que habla.
+
+(Dialogos)
+
+#
 
 # Narrativa y guión
 
