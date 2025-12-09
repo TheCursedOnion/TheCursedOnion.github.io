@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <core datalayer>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Resonant | Official Website | TheCursedOnion</title>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Tillana&display=swap"
+        rel="stylesheet"
+      />
+      <link rel="stylesheet" href="main2.css" />
+    </core>
+  </head>
+ <script>
+  function toggleAnimacion() {
+    const video = document.getElementById("videoFondo");
+    const imagen = document.getElementById("imagenFondo");
+    const checkbox = document.getElementById("toggleAnimCheckbox");
+
+    if (checkbox.checked) {
+      // fondo
+      if (video) video.style.display = "none";
+      if (imagen) imagen.style.display = "block";
+
+      // desactivar animaciones de crew
+      document.body.classList.add("animacion-off");
+    } else {
+      if (video) video.style.display = "block";
+      if (imagen) imagen.style.display = "none";
+
+      document.body.classList.remove("animacion-off");
+    }
+  }
+</script>
+
+  <body>
+    <div class="control-bar">
+      <label class="toggle-label">
+        <input
+          type="checkbox"
+          id="toggleAnimCheckbox"
+          onchange="toggleAnimacion()"
+        />
+        <span class="toggle-text">Detener animación</span>
+      </label>
+    </div>
+
+    <header>
+      <h1>The Cursed Onion</h1>
+      <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#TheOnionCrew">#TheOnionCrew</a>
+        <a href="#juego">Juegos</a>
+        <a href="#extra">Más</a>
+      </nav>
+    </header>
+
+    <main id="inicio">
+      <section class="estudio">
+        <div class="logo-estudio">
+          <img src="./imagen/Logo.svg" alt="Logo del estudio" />
+        </div>
+        <div class="texto-estudio">
+          <h2>Quality comes in layers!</h2>
+          <p>
+            Somos un estudio de desarrollo de videojuego dedicado a crear
+            experiencias únicas y resonantes.
+          </p>
+        </div>
+      </section>
+      <section id="TheOnionCrew">
+        <h2 class="crew-title">Conoce a la #TheOnionCrew</h2>
+        <div class="articles-container">
+          <article>
+            <img src="./imagen/GarroteA.png" alt="Imagen 1" />
+            <img
+              class="hover-img"
+              src="./imagen/GarroteB.png"
+              alt="Imagen 1 hover"
+            />
+            <div class="info">
+              <h3>Alberto</h3>
+              <p>Programador</p>
+              <p>Level designer</p>
+            </div>
+          </article>
+
+          <article>
+            <img src="./imagen/AndresA.png" alt="Imagen 2" />
+            <img
+              class="hover-img"
+              src="./imagen/AndresB.png"
+              alt="Imagen 2 hover"
+            />
+            <div class="info">
+              <h3>Andrés</h3>
+              <p>Gameplay and level designer</p>
+              <p>Compositor musical</p>
+            </div>
+          </article>
+
+          <article>
+            <img src="./imagen/GuillermoA.png" alt="Imagen 3" />
+            <img
+              class="hover-img"
+              src="./imagen/GuilleB.png"
+              alt="Imagen 3 hover"
+            />
+            <div class="info">
+              <h3>Guillermo</h3>
+              <p>Artista 2D</p>
+              <p>Compositor SFX</p>
+            </div>
+          </article>
+
+          <article>
+            <img src="./imagen/EstanisA.png" alt="Imagen 4" />
+            <img
+              class="hover-img"
+              src="./imagen/EstanisB.png"
+              alt="Imagen 4 hover"
+            />
+            <div class="info">
+              <h3>Estanis</h3>
+              <p>Artista 3D</p>
+              <p>Storywriter</p>
+            </div>
+          </article>
+
+          <article>
+            <img src="./imagen/RaulA.png" alt="Imagen 5" />
+            <img
+              class="hover-img"
+              src="./imagen/RaulB.png"
+              alt="Imagen 3 hover"
+            />
+            <div class="info">
+              <h3>Raul</h3>
+              <p>Programador</p>
+              <p>Desarrollador de shaders</p>
+            </div>
+          </article>
+        </div>
+      </section>
+      <section id="juego">
+        <h2 class="juego-title">Descubre algunos juegos del estudio</h2>
+        <div class="juego-container">
+          <div class="juego-item">
+            <img src="./imagen/juego1.png" alt="Juego 1" />
+            <div class="juego-info">
+              <h3>Devil's Details</h3>
+              <p>
+                Encarna a un bartender del infierno..., ¡completa minijuegos a
+                contrareloj, o tu alma arderá por siempre!!
+              </p>
+              <a
+                href="https://estanis.itch.io/devil"
+                class="jugar-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Jugar
+              </a>
+            </div>
+          </div>
+          <div class="juego-item">
+            <img src="./imagen/juego2.png" alt="Juego 2" />
+            <div class="juego-info">
+              <h3>Operation Foolproof</h3>
+              <p>
+                Un grupo de agentes de capacidades especiales es contratado por
+                el gobierno en una misión suicida. Su objetivo; dar un fuerte
+                golpe a la multinacional más peligrosa del país: SOUT, que
+                planea distribuir los planos de una nueva IA militar.
+              </p>
+              <a
+                href="https://taleren.itch.io/operation-foolproof"
+                class="jugar-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Jugar
+              </a>
+            </div>
+          </div>
+          <div class="juego-item">
+            <img src="./imagen/juego3.png" alt="Juego 3" />
+            <div class="juego-info">
+              <h3>Rockbecca</h3>
+              <p>Un plataformas en el que que te convertirás en ¡piedra!</p>
+              <a
+                href="https://bluecario123.itch.io/rockbecca"
+                class="jugar-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Jugar
+              </a>
+            </div>
+          </div>
+          <div class="juego-item">
+            <img src="./imagen/juego4.png" alt="Juego 4" />
+            <div class="juego-info">
+              <h3>Deep Within</h3>
+              <p>
+                Averigua qué misterios depara el interior de las paredes de esta
+                escuela abandonada, y enfréntate a tu pasado. No se garantiza tu
+                seguridad...
+              </p>
+              <a
+                href="https://bluecario123.itch.io/deep-within"
+                class="jugar-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Jugar
+              </a>
+            </div>
+          </div>
+          <div class="juego-item">
+            <img src="./imagen/juego5.png" alt="Juego 5" />
+            <div class="juego-info">
+              <h3>Stretchology of time</h3>
+              <p>
+                William se las tendrá que arreglar para manipular el reloj
+                general de la oficina sin que nadie le vea hacerlo. Pero, este
+                Jefe tiene ojos en todos lados...
+              </p>
+              <a
+                href="https://alberto-garrote.itch.io/stret"
+                class="jugar-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Jugar
+              </a>
+            </div>
+          </div>
+          <div class="juego-item">
+            <img src="./imagen/juego6.png" alt="Juego 6" />
+            <div class="juego-info">
+              <h3>The Toshida Files</h3>
+              <p>
+                Un juego de plataformas interactivo totalmente convencional y
+                funcional para su computadora personal...(Quizas no sea asi...)
+              </p>
+              <a
+                href="https://liquidsireh.itch.io/the-toshida-files"
+                class="jugar-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Jugar
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section" id="extra">
+        <h2>Explora más</h2>
+        <p class="extra-description">
+          Descubre Resonant, la obra más ambiciosa del estudio hasta el momento.
+          Explora épocas históricas en un divertido y accesible juego de
+          estrategia, ¡no te lo pierdas!
+        </p>
+        <div class="extra-links">
+          <a href="resonant.html" class="extra-button">Resonant</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 TheCursedOnion</p>
+      <div class="social">
+        <a href="https://www.instagram.com/thecursedonion_es" target="_blank"
+          >Instagram</a
+        >
+        <a href="https://www.tiktok.com/@thecursedonion_es" target="_blank"
+          >TikTok</a
+        >
+        <a href="https://www.youtube.com/@CursedOnionOfficial" target="_blank"
+          >Youtube</a
+        >
+        <a href="https://x.com/TheCursedOnion_" target="_blank">Twitter(X)</a>
+        <a
+          href="https://bsky.app/profile/thecursedonion.bsky.social"
+          target="_blank"
+          >Bluesky</a
+        >
+      </div>
+    </footer>
+  </body>
+</html>
