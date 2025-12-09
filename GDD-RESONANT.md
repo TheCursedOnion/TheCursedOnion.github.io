@@ -1487,7 +1487,7 @@ El modelado 3D es de carácter lowpoly para el correcto funcionamiento en plataf
 
 #
 
-## Musica
+## Música
 
 En cuanto a el soundtrack del juego se han creado canciones con diferentes rangos sonoros que complementan la situación tanto en narrativa como en jugabilidad.
 
