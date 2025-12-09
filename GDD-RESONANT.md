@@ -1239,10 +1239,15 @@ En los diálogos y la UI, se utiliza un estilo de dibujo digital animado 2D, hí
 
 *Renders de los personajes presentes en los diálogos del juego, con su diseño final*
 
+El estilo de los diálogos es animación flash (hecho en Adobe Animate 2019). Se divide el personaje por partes, y estas se mueven independientemente para formar un movimiento de aspecto natural.
+
+![subdivision](imagen/subdivision.png)
+
+*Subdivisión del “portrait” de diálogo de Lucio.*
+
 ### Texturas personajes 2D
 
 Hay dos tipos de tropas: las tropas básicas y los jefes. Ambas siguen el estilo visual establecido previamente, pero las tropas básicas presentan variaciones que dependen tanto de su subtipo (bárbaro, caballero, arquero…) como de su época de origen (Grecia, Egipto, Japón feudal…). 
-
 Esto implica una gran cantidad de animaciones, crecientes exponencialmente, para cada tipo de personaje en cada época. Por ello, para estos personajes se está utilizando un método de animación por mapas de UV, que permiten asignar texturas a animaciones pixel art, haciendo esencialmente un “reskin” de las mismas animaciones. De este modo, una única animación servirá para personajes con aspecto e indumentaria diferente.
 
 
@@ -1252,10 +1257,204 @@ Con el propósito de establecer la identidad visual de las unidades durante las 
 
 El diseño de los sprites se ha concebido atendiendo a su función dentro del gameplay, priorizando aspectos como la claridad de la silueta, la legibilidad en pantalla y la fluidez del movimiento. Aunque las versiones actuales se aproximan al acabado definitivo, deben considerarse como propuestas conceptuales que permiten evaluar el estilo, la escala y la integración con el entorno tridimensional antes de consolidar la versión final.
 
+Las unidades se generan en runtime, ya que consisten en un mapa de UVs y una textura, a las que se le sobreponen las armas y componentes vistos. Esto permite que, solamente creando una textura, se genere un personaje con todas las animaciones ya implementadas.
+
+![fusion](imagen/fusion.png)
+
+*Proceso de creación de una unidad. Se combina base, textura, complemento y arma.*
 
 ### Unidades
 
-A continuación, se presentan los sprite sheets correspondientes a las unidades aliadas y enemigas organizadas por época histórica, junto con los sprite sheets de los jefes principales (bosses) y los efectos visuales (VFX) desarrollados para complementar la experiencia jugable.
+A continuación, se presentan los assets visuales correspondientes a los complementos y texturas de las unidades:
+
+<table>
+  <tr>
+   <td colspan="2" >
+<h4>Armas:</h4>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![espada](imagen/espada.png)
+
+   </td>
+   <td><strong>Espada tradicional.</strong> Usada por la mayoría de unidades, ya que es el arma por defecto. Los ataques se realizan mediante un tajo horizontal.
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![escudo](imagen/escudo.png)
+
+   </td>
+   <td><strong>Escudo básico.</strong> Usado por las unidades de tipo Tanque, ataca con un golpe hacia adelante y permite resistir mejor los ataques.
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![hacha](imagen/hacha.png)
+
+   </td>
+   <td><strong>Hacha de hierro.</strong> Utilizada por las unidades de tipo Bárbaro, atacan verticalmente y permiten destruir paredes frágiles.
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![katana](imagen/katana.png)
+
+   </td>
+   <td><strong>Katana.</strong> Sustituye a la espada básica en el mapa de Japón feudal. Funciona de forma similar, pero su corte es visualmente más fino y en forma de V.
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![arco](imagen/arco.png)
+
+   </td>
+   <td><strong>Arco de madera.</strong> Arma principal de las unidades de tipo Arquero. Permiten atacar a distancia y cuentan con una animación única.
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Complementos:
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![cascoGriego](imagen/cascoGriego.png)
+
+
+   </td>
+   <td><strong>Casco espartano</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![gorroPersa](imagen/gorroPersa.png)
+
+
+   </td>
+   <td><strong>Gorro persa</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![cascoRomano](imagen/cascoRomano.png)
+
+   </td>
+   <td><strong>Casco romano</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![pelo](imagen/pelo.png)
+
+
+   </td>
+   <td><strong>Peinado de samurái</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Unidades(textura):
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![griegos](imagen/griegos.png)
+
+   </td>
+   <td><strong>Griegos</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![persas](imagen/persas.png)
+
+
+   </td>
+   <td><strong>Persas</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![egipcios](imagen/egipcios.png)
+
+   </td>
+   <td><strong>Egipcios</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![romanos](imagen/romanos.png)
+
+
+   </td>
+   <td><strong>Romanos</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![japoneses](imagen/japoneses.png)
+
+
+   </td>
+   <td><strong>Japoneses</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+![malos](imagen/malos.png)
+
+
+   </td>
+   <td><strong>Japoneses (poseídos)</strong>
+   </td>
+  </tr>
+</table>
+
+
+
+*Tabla con todas las spritesheets de pixelart*
+
+## Jefes
+
+Para los jefes del juego, a diferencia de las unidades, se han utilizado animaciones pixel-art tradicionales, que permiten mostrar una mayor expresividad y detalles precisos para estas unidades de carácter más especial.
+
+![persa_buff](imagen/persa_buff.png)
+![jeanne_buff](imagen/jeanne_buff.png)
+![rob_buff](imagen/rob_buff.png)
+
+
+*Frame-to-frame de algunas de las animaciones de los jefes. Nótese la cantidad de detalle en cada uno de los frames, algo que con el resto de unidades sería imposible.*
+
+### Animaciones pixel-art
+
+La base de UV, los complementos y los jefes deben implementar las siguientes animaciones para funcionar correctamente:
+
+![animaciones1](imagen/animaciones1.png)
+
+
+![animaciones](imagen/animaciones.png)
+
+
+
+*Frame-to-frame de las animaciones de las tropas. Para ejemplificar mejor se ha utilizado una tropa neutral de prueba.*
+
 
 
 ## Apartado visual 3D
