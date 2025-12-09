@@ -1,0 +1,498 @@
+html{
+  scroll-padding-top: 150px;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden; /* evita scroll horizontal */
+}
+/* ===========================
+   RESET & BASE
+=========================== */
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'DigitalDisco';
+  src: url('./fuentes/DigitalDisco.woff2') format('woff2'),
+       url('./fuentes/DigitalDisco.woff') format('woff'),
+       url('./fuentes/DigitalDisco.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* BASE */
+body {
+  margin: 0;
+  font-family: 'DigitalDisco', sans-serif;
+  background-color: #de2e3c; /* fondo rojo por defecto */
+  color: #ffffff;            /* texto blanco por defecto */
+  padding-top: 140px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+/* HEADER */
+header {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  z-index: 999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5em;
+  /* más pequeño en móvil */
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.9em;
+  /* más pequeño en móvil */
+}
+
+/* FOOTER */
+footer {
+  background-color: black;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  margin-top: auto;
+  /* empuja el footer al final */
+}
+
+.social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.social a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+/* SECTIONS */
+/* Por defecto (móvil) se mantiene centrado y en columna */
+.estudio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;   /* centra verticalmente el contenido */
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: #de2e3c;
+  text-align: center;
+}
+
+/* Escritorio: limitar ancho y centrar el bloque */
+@media (min-width: 768px) {
+  .estudio {
+    flex-direction: row;      /* imagen y texto en fila */
+    justify-content: center;  /* centra los hijos en el eje horizontal */
+    align-items: center;      /* centra en el eje vertical */
+    text-align: left;
+    padding: 40px;
+
+    max-width: 1100px;        /* ancho máximo del bloque */
+    margin: 0 auto;           /* centrado del bloque respecto a la página */
+    gap: 40px;                /* separar imagen y texto */
+  }
+
+  .estudio .logo-estudio img {
+    max-width: 500px;
+    height: auto;
+  }
+
+  .texto-estudio {
+    flex: 1;
+    padding-left: 0;          /* evita empujarlo demasiado a la derecha */
+  }
+}
+
+/* Logo por defecto */
+.logo-estudio img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+/* En móviles (pantallas menores a 480px) */
+@media (max-width: 480px) {
+  .logo-estudio img {
+    max-width: 600px; /* aumenta el tamaño del logo en móviles */
+  }
+}
+
+.texto-estudio h2 {
+  font-size: 1.5em;
+}
+
+.texto-estudio p {
+  font-size: 1em;
+  line-height: 1.4;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+/* ✅ En pantallas grandes (ordenador) */
+@media (min-width: 768px) {
+  header h1 {
+    font-size: 2em;
+  }
+
+  nav a {
+    font-size: 1.1em;
+  }
+
+  .estudio {
+    flex-direction: row;
+    /* logo y texto en fila */
+    text-align: left;
+    padding: 40px;
+  }
+
+  .estudio .logo-estudio img {
+    max-width: 1000px;
+  }
+
+  .texto-estudio {
+    flex: 1;
+    padding-left: 30px;
+    text-align: left;
+  }
+
+  .texto-estudio h2 {
+    font-size: 2em;
+  }
+
+  .texto-estudio p {
+    font-size: 1.2em;
+    max-width: 600px;
+  }
+
+  .social a {
+    font-size: 1em;
+  }
+}
+
+/* =========================== CONTROL BAR (TOGGLE) =========================== */
+.control-bar {
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  z-index: 1000;
+}
+
+.toggle-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  background-color: black;
+  color: #ffffff;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  user-select: none;
+}
+
+.toggle-label input[type="checkbox"] {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid#ffffff;
+  border-radius: 3px;
+  background-color: transparent;
+  position: relative;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.toggle-label input[type="checkbox"]:checked {
+  background-color: #ffffff;
+}
+
+/* Contenedor de artículos */
+/* Fondo y layout de la sección */
+#TheOnionCrew {
+  background-color: #000;
+  color: #fff;
+  padding: 40px;
+}
+.crew-title {
+  font-size: 2.5em;       /* tamaño grande */
+  text-align: center;     /* centrado */
+  margin-bottom: 30px;    /* espacio debajo */
+  color: #fff;            /* blanco para contraste con fondo negro */
+  font-weight: bold;
+}
+
+.articles-container {
+  display: flex;
+  flex-direction: column;   /* móvil */
+  align-items: center;
+  gap: 30px;
+}
+
+/* Tarjeta */
+article {
+  position: relative;
+  width: 250px;
+  transition: all .3s ease;
+  text-align: center;
+}
+
+article img:first-child {
+  box-shadow: 0 60px 60px -60px rgba(222, 46, 60, 0.5);
+  border-radius: 4px;
+  object-fit: cover;
+  width: 100%;
+  display: block;
+}
+
+/* Segunda imagen para hover */
+article .hover-img {
+  position: absolute;
+  width: 250px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  transform: translateY(100%);
+  transition: .3s ease;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Efecto hover */
+article:hover {
+  transform: perspective(250px) rotateX(10deg) translateY(-5%) translateZ(0);
+}
+
+article::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to bottom,
+    transparent 10%,
+    rgba(0,0,0,0.5) 50%,
+    rgba(0,0,0) 95%);
+  opacity: 0;
+  transition: all .3s ease;
+  background: none;
+}
+
+article:hover::before {
+  opacity: 1;
+  background: none;
+}
+
+/* Estado normal: con animación */
+article:hover {
+  transform: perspective(250px) rotateX(10deg) translateY(-5%) translateZ(0);
+}
+article:hover .hover-img {
+  opacity: 1;
+  transform: translateY(-50%);
+}
+
+/* Estado con animación desactivada */
+.animacion-off article:hover {
+  transform: none;              /* sin transformación */
+}
+.animacion-off article .hover-img {
+  display: none !important;     /* oculta la imagen de hover */
+}
+
+
+/* Texto debajo */
+article .info {
+  margin-top: 12px;
+}
+
+article .info h3 {
+  margin: 0;
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+article .info p {
+  margin: 6px 0 0;
+  font-size: 0.95em;
+  color: #ccc;
+}
+
+/* Escritorio: 4 en fila centrados */
+@media (min-width: 768px) {
+  .articles-container {
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+}
+
+/* Sección Juego */
+.juego-title {
+  font-size: 2.5em;       /* tamaño grande */
+  text-align: center;     /* centrado */
+  margin-bottom: 30px;    /* espacio debajo */
+  color: #fff;            /* blanco para contraste con fondo negro */
+  font-weight: bold;
+}
+
+#juego {
+  background-color: #de2e3c; /* fondo oscuro */
+  color: #fff;
+  padding: 40px;
+}
+
+.juego-container {
+  display: grid;
+  grid-template-columns: 1fr; /* móvil: una columna */
+  gap: 20px;
+}
+
+/* Cada item */
+.juego-item {
+  display: flex;
+  flex-direction: row; /* móvil: imagen + texto al lado */
+  align-items: center;
+  gap: 15px;
+}
+
+.juego-item img {
+  width: 120px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.juego-info h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.juego-info p {
+  margin: 5px 0 0;
+  font-size: 0.9em;
+  color: #ccc;
+}
+
+/* ✅ En pantallas grandes (ordenador) */
+@media (min-width: 768px) {
+  .juego-container {
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas */
+    gap: 30px;
+  }
+
+  .juego-item {
+    flex-direction: column; /* escritorio: imagen arriba, texto debajo */
+    text-align: center;
+  }
+
+  .juego-item img {
+    width: 100%; /* ocupa todo el ancho de la celda */
+    max-width: 250px;
+  }
+}
+
+.jugar-link {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 6px 12px;
+  background-color: black; /* tu rojo corporativo */
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.jugar-link:hover {
+  background-color: #b5222f; /* tono más oscuro al pasar el cursor */
+}
+
+/* ===========================
+   EXTRA SECTION
+=========================== */
+#extra {
+  background-color: #ffffff;   /* fondo blanco */
+  color: #000000;              /* texto negro */
+  padding: 40px;
+  text-align: center;
+}
+
+#extra h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+  color: #000000;
+}
+
+.extra-description {
+  font-size: 1em;
+  line-height: 1.5;
+  max-width: 700px;
+  margin: 0 auto 25px; /* centrado y con espacio debajo */
+  color: #333333;
+}
+
+.extra-links {
+  display: flex;
+  flex-direction: column; /* móvil: botones uno debajo del otro */
+  gap: 15px;
+  align-items: center;
+}
+
+.extra-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #000000;   /* fondo negro */
+  color: #ffffff;              /* texto blanco */
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 6px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.extra-button:hover {
+  background-color: #333333;   /* gris oscuro al pasar el cursor */
+  transform: scale(1.05);
+}
+
+@media (min-width: 768px) {
+  .extra-links {
+    flex-direction: row;       /* escritorio: botones en fila */
+    justify-content: center;
+  }
+}
